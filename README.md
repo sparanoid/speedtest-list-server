@@ -1,4 +1,4 @@
-# SpeedTest.net List with Algolia Backend
+# SpeedTest.net Server List Algolia Pusher
 
 Push Speedtest.net server list to Algolia
 
@@ -8,7 +8,6 @@ Create your `.env`:
 
 ```bash
 ALGOLIA_APP_ID=_app_id_
-ALGOLIA_SEARCH_KEY=_search_key_
 ALGOLIA_ADMIN_KEY=_admin_key_
 ALGOLIA_INDEX=_index_name_
 ```
