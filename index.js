@@ -63,11 +63,18 @@ axios.get(url)
         console.log(`List saved to ${filename}`);
       });
 
+      index.setSettings({
+        attributesForFaceting: [
+          'country'
+        ],
+        maxValuesPerFacet: 1000
+      });
+
       index.addObjects(result, (err, content) => {
         if (err) throw err;
         console.log(`List uploaded to Algolia`);
-      })}
-    );
+      });
+    });
   })
   .catch(function (error) {
     console.log(error);
