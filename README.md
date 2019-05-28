@@ -14,7 +14,7 @@ ALGOLIA_INDEX=_index_name_
 
 ```bash
 yarn
-yarn start
+yarn push
 ```
 
 ## License
