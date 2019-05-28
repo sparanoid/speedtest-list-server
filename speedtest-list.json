@@ -2160,6 +2160,19 @@
     }
   },
   {
+    "url": "http://speedtest.utelcom.ru:8080/speedtest/upload.php",
+    "name": "Saint Petersburg",
+    "country": "Russia",
+    "cc": "RU",
+    "sponsor": "LLC Utelcom",
+    "host": "speedtest.utelcom.ru:8080",
+    "objectID": 23440,
+    "_geoloc": {
+      "lat": 59.9333,
+      "lon": 30.3333
+    }
+  },
+  {
     "url": "http://speedtest.forestnet.pro:8080/speedtest/upload.php",
     "name": "Saint Petersburg",
     "country": "Russian Federation",
@@ -2168,19 +2181,6 @@
     "url2": "http://sp.forestnet.pro/speedtest/upload.php",
     "host": "speedtest.forestnet.pro:8080",
     "objectID": 9644,
-    "_geoloc": {
-      "lat": 59.9333,
-      "lon": 30.3333
-    }
-  },
-  {
-    "url": "http://speedtest.utelcom.ru:8080/speedtest/upload.php",
-    "name": "Saint Petersburg",
-    "country": "Russia",
-    "cc": "RU",
-    "sponsor": "LLC Utelcom",
-    "host": "speedtest.utelcom.ru:8080",
-    "objectID": 23440,
     "_geoloc": {
       "lat": 59.9333,
       "lon": 30.3333
@@ -3129,20 +3129,6 @@
     "_geoloc": {
       "lat": 57.7,
       "lon": 11.9667
-    }
-  },
-  {
-    "url": "http://yaroslavl.speedtest.rt.ru:8080/speedtest/upload.php",
-    "name": "Yaroslavl",
-    "country": "Russian Federation",
-    "cc": "RU",
-    "sponsor": "Rostelecom",
-    "url2": "http://yaroslavl.speedtest2.rt.ru/speedtest/upload.php",
-    "host": "yaroslavl.speedtest.rt.ru:8080",
-    "objectID": 2620,
-    "_geoloc": {
-      "lat": 57.6167,
-      "lon": 39.85
     }
   },
   {
@@ -5514,19 +5500,6 @@
     }
   },
   {
-    "url": "http://st.garstelecom.ru:8080/speedtest/upload.php",
-    "name": "Moscow",
-    "country": "Russian Federation",
-    "cc": "RU",
-    "sponsor": "garstelecom",
-    "host": "st.garstelecom.ru:8080",
-    "objectID": 13851,
-    "_geoloc": {
-      "lat": 55.7517,
-      "lon": 37.6178
-    }
-  },
-  {
     "url": "http://speedtest.asvt.ru:8080/speedtest/upload.php",
     "name": "Moscow",
     "country": "Russia",
@@ -5534,6 +5507,19 @@
     "sponsor": "ASVT",
     "host": "speedtest.asvt.ru:8080",
     "objectID": 19756,
+    "_geoloc": {
+      "lat": 55.7517,
+      "lon": 37.6178
+    }
+  },
+  {
+    "url": "http://st.garstelecom.ru:8080/speedtest/upload.php",
+    "name": "Moscow",
+    "country": "Russian Federation",
+    "cc": "RU",
+    "sponsor": "garstelecom",
+    "host": "st.garstelecom.ru:8080",
+    "objectID": 13851,
     "_geoloc": {
       "lat": 55.7517,
       "lon": 37.6178
@@ -5566,19 +5552,6 @@
     }
   },
   {
-    "url": "http://speed.msk.avantel.ru:8080/speedtest/upload.php",
-    "name": "Moscow",
-    "country": "Russia",
-    "cc": "RU",
-    "sponsor": "AVANTEL MSK",
-    "host": "speed.msk.avantel.ru:8080",
-    "objectID": 23313,
-    "_geoloc": {
-      "lat": 55.7517,
-      "lon": 37.6178
-    }
-  },
-  {
     "url": "http://sp1.comiten.ru:8080/speedtest/upload.php",
     "name": "Moscow",
     "country": "Russian Federation",
@@ -5586,6 +5559,19 @@
     "sponsor": "COMITEN",
     "host": "sp1.comiten.ru:8080",
     "objectID": 12363,
+    "_geoloc": {
+      "lat": 55.7517,
+      "lon": 37.6178
+    }
+  },
+  {
+    "url": "http://speed.msk.avantel.ru:8080/speedtest/upload.php",
+    "name": "Moscow",
+    "country": "Russia",
+    "cc": "RU",
+    "sponsor": "AVANTEL MSK",
+    "host": "speed.msk.avantel.ru:8080",
+    "objectID": 23313,
     "_geoloc": {
       "lat": 55.7517,
       "lon": 37.6178
@@ -10511,6 +10497,20 @@
     }
   },
   {
+    "url": "http://speedtest-net3.rapidswitch.co.uk/speedtest/upload.aspx",
+    "name": "Nottingham",
+    "country": "Great Britain",
+    "cc": "GB",
+    "sponsor": "Iomart",
+    "url2": "http://speedtest-net4.rapidswitch.co.uk/speedtest/upload.aspx",
+    "host": "speedtest-net3.rapidswitch.co.uk:8080",
+    "objectID": 4379,
+    "_geoloc": {
+      "lat": 52.9548,
+      "lon": -1.1581
+    }
+  },
+  {
     "url": "http://speedtest.cwcs.co.uk:8080/speedtest/upload.php",
     "name": "Nottingham",
     "country": "Great Britain",
@@ -10842,6 +10842,20 @@
     "sponsor": "Virgin Media",
     "host": "leic-speedtest-1.server.virginmedia.net:8080",
     "objectID": 3725,
+    "_geoloc": {
+      "lat": 52.6369,
+      "lon": -1.1398
+    }
+  },
+  {
+    "url": "http://speedtest-net5.rapidswitch.co.uk/speedtest/upload.aspx",
+    "name": "Leicester",
+    "country": "Great Britain",
+    "cc": "GB",
+    "sponsor": "Iomart",
+    "url2": "http://speedtest-net6.rapidswitch.co.uk/speedtest/upload.aspx",
+    "host": "speedtest-net5.rapidswitch.co.uk:8080",
+    "objectID": 4384,
     "_geoloc": {
       "lat": 52.6369,
       "lon": -1.1398
@@ -11183,19 +11197,6 @@
     "_geoloc": {
       "lat": 52.5156,
       "lon": 103.9172
-    }
-  },
-  {
-    "url": "http://speedtest.a2b-internet.com:8080/speedtest/upload.php",
-    "name": "Purmerend",
-    "country": "Netherlands",
-    "cc": "NL",
-    "sponsor": "A2B Internet",
-    "host": "speedtest.a2b-internet.com:8080",
-    "objectID": 24210,
-    "_geoloc": {
-      "lat": 52.5144,
-      "lon": 4.9641
     }
   },
   {
@@ -11873,19 +11874,6 @@
     }
   },
   {
-    "url": "http://speedtest.bteleport.ru:8080/speedtest/upload.php",
-    "name": "Irkutsk",
-    "country": "Russia",
-    "cc": "RU",
-    "sponsor": "Baikal Teleport",
-    "host": "speedtest.bteleport.ru:8080",
-    "objectID": 18543,
-    "_geoloc": {
-      "lat": 52.2757,
-      "lon": 104.3087
-    }
-  },
-  {
     "url": "http://194.186.138.14:8080/speedtest/upload.php",
     "name": "Irkutsk",
     "country": "Russian Federation",
@@ -11894,6 +11882,19 @@
     "url2": "http://194.186.138.14/speedtest2/upload.php",
     "host": "194.186.138.14:8080",
     "objectID": 6440,
+    "_geoloc": {
+      "lat": 52.2757,
+      "lon": 104.3087
+    }
+  },
+  {
+    "url": "http://speedtest.bteleport.ru:8080/speedtest/upload.php",
+    "name": "Irkutsk",
+    "country": "Russia",
+    "cc": "RU",
+    "sponsor": "Baikal Teleport",
+    "host": "speedtest.bteleport.ru:8080",
+    "objectID": 18543,
     "_geoloc": {
       "lat": 52.2757,
       "lon": 104.3087
@@ -12172,19 +12173,6 @@
     }
   },
   {
-    "url": "http://speedtest-ng.atman.pl:8080/speedtest/upload.php",
-    "name": "Warsaw",
-    "country": "Poland",
-    "cc": "PL",
-    "sponsor": "Atman (ATM S.A.)",
-    "host": "speedtest-ng.atman.pl:8080",
-    "objectID": 21679,
-    "_geoloc": {
-      "lat": 52.2323,
-      "lon": 21.0084
-    }
-  },
-  {
     "url": "http://speedtest.techgroup.pl:8080/speedtest/upload.php",
     "name": "Warszawa",
     "country": "Poland",
@@ -12193,6 +12181,19 @@
     "url2": "http://speedtest0.techgroup.pl/upload.php",
     "host": "speedtest.techgroup.pl:8080",
     "objectID": 8399,
+    "_geoloc": {
+      "lat": 52.2323,
+      "lon": 21.0084
+    }
+  },
+  {
+    "url": "http://speedtest-ng.atman.pl:8080/speedtest/upload.php",
+    "name": "Warsaw",
+    "country": "Poland",
+    "cc": "PL",
+    "sponsor": "Atman (ATM S.A.)",
+    "host": "speedtest-ng.atman.pl:8080",
+    "objectID": 21679,
     "_geoloc": {
       "lat": 52.2323,
       "lon": 21.0084
@@ -17045,19 +17046,6 @@
     }
   },
   {
-    "url": "http://speedtest.lan4ever.net.ua:8080/speedtest/upload.php",
-    "name": "Vasylkiv",
-    "country": "Ukraine",
-    "cc": "UA",
-    "sponsor": "Lan4ever",
-    "host": "speedtest.lan4ever.net.ua:8080",
-    "objectID": 23186,
-    "_geoloc": {
-      "lat": 50.1771,
-      "lon": 30.3196
-    }
-  },
-  {
     "url": "http://testpgnet.pl:8080/speedtest/upload.php",
     "name": "Oleszyce",
     "country": "Poland",
@@ -17165,6 +17153,19 @@
     }
   },
   {
+    "url": "http://speedtest1.mk.de:8080/speedtest/upload.php",
+    "name": "Frankfurt",
+    "country": "Germany",
+    "cc": "DE",
+    "sponsor": "MK Netzdienste",
+    "host": "speedtest1.mk.de:8080",
+    "objectID": 18488,
+    "_geoloc": {
+      "lat": 50.1109,
+      "lon": 8.6821
+    }
+  },
+  {
     "url": "http://speed.23media.de:8080/speedtest/upload.php",
     "name": "Frankfurt",
     "country": "Germany",
@@ -17173,19 +17174,6 @@
     "url2": "http://speed2.23media.de/speedtest/upload.php",
     "host": "speed.23media.de:8080",
     "objectID": 7560,
-    "_geoloc": {
-      "lat": 50.1109,
-      "lon": 8.6821
-    }
-  },
-  {
-    "url": "http://speedtest1.mk.de:8080/speedtest/upload.php",
-    "name": "Frankfurt",
-    "country": "Germany",
-    "cc": "DE",
-    "sponsor": "MK Netzdienste",
-    "host": "speedtest1.mk.de:8080",
-    "objectID": 18488,
     "_geoloc": {
       "lat": 50.1109,
       "lon": 8.6821
@@ -18375,6 +18363,19 @@
     }
   },
   {
+    "url": "http://winnipeg.speedtest.telus.com:8080/speedtest/upload.php",
+    "name": "Winnipeg, MB",
+    "country": "Canada",
+    "cc": "CA",
+    "sponsor": "TELUS",
+    "host": "winnipeg.speedtest.telus.com:8080",
+    "objectID": 18692,
+    "_geoloc": {
+      "lat": 49.8833,
+      "lon": -97.15
+    }
+  },
+  {
     "url": "http://ookla1.fastnet.me:8080/speedtest/upload.php",
     "name": "Winnipeg, MB",
     "country": "Canada",
@@ -18383,19 +18384,6 @@
     "url2": "http://ookla2.fastnet.me/speedtest/upload.php",
     "host": "ookla1.fastnet.me:8080",
     "objectID": 7290,
-    "_geoloc": {
-      "lat": 49.8833,
-      "lon": -97.15
-    }
-  },
-  {
-    "url": "http://winnipeg.speedtest.telus.com:8080/speedtest/upload.php",
-    "name": "Winnipeg, MB",
-    "country": "Canada",
-    "cc": "CA",
-    "sponsor": "TELUS",
-    "host": "winnipeg.speedtest.telus.com:8080",
-    "objectID": 18692,
     "_geoloc": {
       "lat": 49.8833,
       "lon": -97.15
@@ -20072,6 +20060,19 @@
     }
   },
   {
+    "url": "http://speedtest-250.aebc.com:8080/speedtest/upload.php",
+    "name": "Vancouver, BC",
+    "country": "Canada",
+    "cc": "CA",
+    "sponsor": "AEBC Internet Crop",
+    "host": "speedtest-250.aebc.com:8080",
+    "objectID": 15263,
+    "_geoloc": {
+      "lat": 49.2505,
+      "lon": -123.1119
+    }
+  },
+  {
     "url": "http://speed1.ciphertv.com:8080/speedtest/upload.php",
     "name": "Vancouver, BC",
     "country": "Canada",
@@ -20080,19 +20081,6 @@
     "url2": "http://speed2.ciphertv.com/speedtest/upload.aspx",
     "host": "speed1.ciphertv.com:8080",
     "objectID": 8051,
-    "_geoloc": {
-      "lat": 49.2505,
-      "lon": -123.1119
-    }
-  },
-  {
-    "url": "http://speedtest-250.aebc.com:8080/speedtest/upload.php",
-    "name": "Vancouver, BC",
-    "country": "Canada",
-    "cc": "CA",
-    "sponsor": "AEBC Internet Crop",
-    "host": "speedtest-250.aebc.com:8080",
-    "objectID": 15263,
     "_geoloc": {
       "lat": 49.2505,
       "lon": -123.1119
@@ -21303,19 +21291,6 @@
     }
   },
   {
-    "url": "http://montsouris3.speedtest.orange.fr:8080/speedtest/upload.php",
-    "name": "Paris",
-    "country": "France",
-    "cc": "FR",
-    "sponsor": "ORANGE FRANCE",
-    "host": "montsouris3.speedtest.orange.fr:8080",
-    "objectID": 24215,
-    "_geoloc": {
-      "lat": 48.8742,
-      "lon": 2.347
-    }
-  },
-  {
     "url": "http://vpsbypass.extragornax.fr:5060/speedtest/upload.php",
     "name": "Paris",
     "country": "France",
@@ -21323,6 +21298,19 @@
     "sponsor": "Extragornax",
     "host": "vpsbypass.extragornax.fr:8080",
     "objectID": 22902,
+    "_geoloc": {
+      "lat": 48.8742,
+      "lon": 2.347
+    }
+  },
+  {
+    "url": "http://montsouris3.speedtest.orange.fr:8080/speedtest/upload.php",
+    "name": "Paris",
+    "country": "France",
+    "cc": "FR",
+    "sponsor": "ORANGE FRANCE",
+    "host": "montsouris3.speedtest.orange.fr:8080",
+    "objectID": 24215,
     "_geoloc": {
       "lat": 48.8742,
       "lon": 2.347
@@ -24771,20 +24759,6 @@
     }
   },
   {
-    "url": "http://speedtest.rostov.ertelecom.ru:8080/speedtest/upload.php",
-    "name": "Rostov-on-Don",
-    "country": "Russian Federation",
-    "cc": "RU",
-    "sponsor": "DOM.RU",
-    "url2": "http://st.rostov.ertelecom.ru/speedtest/upload.php",
-    "host": "speedtest.rostov.ertelecom.ru:8080",
-    "objectID": 2716,
-    "_geoloc": {
-      "lat": 47.2333,
-      "lon": 39.7
-    }
-  },
-  {
     "url": "http://rostov-na-donu1.speedtest.rt.ru:8080/speedtest/upload.php",
     "name": "Rostov-on-Don",
     "country": "Russian Federation",
@@ -24793,6 +24767,20 @@
     "url2": "http://rostov-na-donu1.speedtest2.rt.ru/speedtest/upload.php",
     "host": "rostov-na-donu1.speedtest.rt.ru:8080",
     "objectID": 4276,
+    "_geoloc": {
+      "lat": 47.2333,
+      "lon": 39.7
+    }
+  },
+  {
+    "url": "http://speedtest.rostov.ertelecom.ru:8080/speedtest/upload.php",
+    "name": "Rostov-on-Don",
+    "country": "Russian Federation",
+    "cc": "RU",
+    "sponsor": "DOM.RU",
+    "url2": "http://st.rostov.ertelecom.ru/speedtest/upload.php",
+    "host": "speedtest.rostov.ertelecom.ru:8080",
+    "objectID": 2716,
     "_geoloc": {
       "lat": 47.2333,
       "lon": 39.7
@@ -28822,19 +28810,6 @@
     }
   },
   {
-    "url": "http://speedtest.smileytv.rs/speedtest/upload.php",
-    "name": "Vršac",
-    "country": "Serbia",
-    "cc": "RS",
-    "sponsor": "SmileyTV KDS",
-    "host": "speedtest.smileytv.rs:8080",
-    "objectID": 15475,
-    "_geoloc": {
-      "lat": 45.1182,
-      "lon": 21.2945
-    }
-  },
-  {
     "url": "http://speedtest.nu-ip.ro:8080/speedtest/upload.php",
     "name": "Ramnicu Valcea",
     "country": "Romania",
@@ -29188,6 +29163,19 @@
     }
   },
   {
+    "url": "http://speedtest21.altel.kz:8080/speedtest/upload.php",
+    "name": "Kyzylorda",
+    "country": "Kazakhstan",
+    "cc": "KZ",
+    "sponsor": "Altel JSC",
+    "host": "speedtest21.altel.kz:8080",
+    "objectID": 16245,
+    "_geoloc": {
+      "lat": 45,
+      "lon": 64
+    }
+  },
+  {
     "url": "http://kzl-st1.2day.kz:8080/speedtest/upload.php",
     "name": "Kyzylorda",
     "country": "Kazakhstan",
@@ -29196,19 +29184,6 @@
     "url2": "http://kzl-st2.2day.kz/speedtest/upload.php",
     "host": "kzl-st1.2day.kz:8080",
     "objectID": 7249,
-    "_geoloc": {
-      "lat": 45,
-      "lon": 64
-    }
-  },
-  {
-    "url": "http://speedtest21.altel.kz:8080/speedtest/upload.php",
-    "name": "Kyzylorda",
-    "country": "Kazakhstan",
-    "cc": "KZ",
-    "sponsor": "Altel JSC",
-    "host": "speedtest21.altel.kz:8080",
-    "objectID": 16245,
     "_geoloc": {
       "lat": 45,
       "lon": 64
@@ -30082,6 +30057,19 @@
     }
   },
   {
+    "url": "http://speedtest-east.eastlink.ca:8080/speedtest/upload.php",
+    "name": "Halifax, NS",
+    "country": "Canada",
+    "cc": "CA",
+    "sponsor": "Eastlink",
+    "host": "speedtest-east.eastlink.ca:8080",
+    "objectID": 1658,
+    "_geoloc": {
+      "lat": 44.67,
+      "lon": -63.61
+    }
+  },
+  {
     "url": "http://speedtest2.yourcitywide.com/speedtest/upload.php",
     "name": "Halifax, NS",
     "country": "Canada",
@@ -30761,19 +30749,6 @@
     }
   },
   {
-    "url": "http://bucuresti.07internet.ro:8080/speedtest/upload.php",
-    "name": "Bucharest",
-    "country": "Romania",
-    "cc": "RO",
-    "sponsor": "07internet.ro",
-    "host": "bucuresti.07internet.ro:8080",
-    "objectID": 18935,
-    "_geoloc": {
-      "lat": 44.4167,
-      "lon": 26.1
-    }
-  },
-  {
     "url": "http://speedtest.next-gen.ro:8080/speedtest/upload.php",
     "name": "Bucharest",
     "country": "Romania",
@@ -30781,6 +30756,19 @@
     "sponsor": "NextGen Communications",
     "host": "speedtest.next-gen.ro:8080",
     "objectID": 1737,
+    "_geoloc": {
+      "lat": 44.4167,
+      "lon": 26.1
+    }
+  },
+  {
+    "url": "http://bucuresti.07internet.ro:8080/speedtest/upload.php",
+    "name": "Bucharest",
+    "country": "Romania",
+    "cc": "RO",
+    "sponsor": "07internet.ro",
+    "host": "bucuresti.07internet.ro:8080",
+    "objectID": 18935,
     "_geoloc": {
       "lat": 44.4167,
       "lon": 26.1
@@ -31493,19 +31481,6 @@
     "url2": "http://speedtest2.jlinfo.jl.cn/speedtest/upload.php",
     "host": "speedtest1.jlinfo.jl.cn:8080",
     "objectID": 9484,
-    "_geoloc": {
-      "lat": 43.88,
-      "lon": 125.3228
-    }
-  },
-  {
-    "url": "http://speedtest2.jl.chinamobile.com:8080/speedtest/upload.php",
-    "name": "Changchun",
-    "country": "China",
-    "cc": "CN",
-    "sponsor": "China Mobile,Jilin",
-    "host": "speedtest2.jl.chinamobile.com:8080",
-    "objectID": 16375,
     "_geoloc": {
       "lat": 43.88,
       "lon": 125.3228
@@ -36952,13 +36927,14 @@
     }
   },
   {
-    "url": "http://il.speedtest.accessmedia3.com:8080/speedtest/upload.php",
+    "url": "http://st1.tzulo.com:8080/speedtest/upload.php",
     "name": "Chicago, IL",
     "country": "United States",
     "cc": "US",
-    "sponsor": "Access Media 3",
-    "host": "il.speedtest.accessmedia3.com:8080",
-    "objectID": 19893,
+    "sponsor": "tzulo, inc",
+    "url2": "http://st2.tzulo.com/upload.php",
+    "host": "st1.tzulo.com:8080",
+    "objectID": 5919,
     "_geoloc": {
       "lat": 41.8369,
       "lon": -87.6847
@@ -36978,14 +36954,13 @@
     }
   },
   {
-    "url": "http://st1.tzulo.com:8080/speedtest/upload.php",
+    "url": "http://il.speedtest.accessmedia3.com:8080/speedtest/upload.php",
     "name": "Chicago, IL",
     "country": "United States",
     "cc": "US",
-    "sponsor": "tzulo, inc",
-    "url2": "http://st2.tzulo.com/upload.php",
-    "host": "st1.tzulo.com:8080",
-    "objectID": 5919,
+    "sponsor": "Access Media 3",
+    "host": "il.speedtest.accessmedia3.com:8080",
+    "objectID": 19893,
     "_geoloc": {
       "lat": 41.8369,
       "lon": -87.6847
@@ -45309,19 +45284,6 @@
     }
   },
   {
-    "url": "http://st-izmir-1.turksatkablo.com.tr:8080/speedtest/upload.php",
-    "name": "Izmir",
-    "country": "Turkey",
-    "cc": "TR",
-    "sponsor": "Turksat Kablonet",
-    "host": "st-izmir-1.turksatkablo.com.tr:8080",
-    "objectID": 20989,
-    "_geoloc": {
-      "lat": 38.4202,
-      "lon": 27.1283
-    }
-  },
-  {
     "url": "http://brnv01.hizinitestet.com:8080/speedtest/upload.php",
     "name": "Izmir",
     "country": "Turkey",
@@ -45329,6 +45291,19 @@
     "sponsor": "Turkcell",
     "host": "brnv01.hizinitestet.com:8080",
     "objectID": 24520,
+    "_geoloc": {
+      "lat": 38.4202,
+      "lon": 27.1283
+    }
+  },
+  {
+    "url": "http://st-izmir-1.turksatkablo.com.tr:8080/speedtest/upload.php",
+    "name": "Izmir",
+    "country": "Turkey",
+    "cc": "TR",
+    "sponsor": "Turksat Kablonet",
+    "host": "st-izmir-1.turksatkablo.com.tr:8080",
+    "objectID": 20989,
     "_geoloc": {
       "lat": 38.4202,
       "lon": 27.1283
@@ -45414,19 +45389,6 @@
     "_geoloc": {
       "lat": 38.3472,
       "lon": -81.6333
-    }
-  },
-  {
-    "url": "http://vmax1.aeromax.es/speedtest/upload.php",
-    "name": "Alicante",
-    "country": "ES",
-    "cc": "ES",
-    "sponsor": "aeromax",
-    "host": "vmax1.aeromax.es:8080",
-    "objectID": 17325,
-    "_geoloc": {
-      "lat": 38.3453,
-      "lon": -0.4831
     }
   },
   {
@@ -45913,6 +45875,19 @@
     }
   },
   {
+    "url": "http://speedtest.cablemurcia.com/speedtest/upload.php",
+    "name": "Murcia",
+    "country": "Spain",
+    "cc": "ES",
+    "sponsor": "CableMurcia",
+    "host": "speedtest.cablemurcia.com:8080",
+    "objectID": 16069,
+    "_geoloc": {
+      "lat": 37.9861,
+      "lon": -1.1303
+    }
+  },
+  {
     "url": "http://speedtest.electronicamartinez.es:8080/speedtest/upload.php",
     "name": "Murcia",
     "country": "Spain",
@@ -45921,19 +45896,6 @@
     "url2": "http://test.electronicamartinez.es/upload.php",
     "host": "speedtest.electronicamartinez.es:8080",
     "objectID": 8138,
-    "_geoloc": {
-      "lat": 37.9861,
-      "lon": -1.1303
-    }
-  },
-  {
-    "url": "http://speedtest.cablemurcia.com/speedtest/upload.php",
-    "name": "Murcia",
-    "country": "Spain",
-    "cc": "ES",
-    "sponsor": "CableMurcia",
-    "host": "speedtest.cablemurcia.com:8080",
-    "objectID": 16069,
     "_geoloc": {
       "lat": 37.9861,
       "lon": -1.1303
@@ -47285,19 +47247,6 @@
     }
   },
   {
-    "url": "http://speedtest.wihu.es:8080/speedtest/upload.php",
-    "name": "Huelva",
-    "country": "Spain",
-    "cc": "ES",
-    "sponsor": "WIHU",
-    "host": "speedtest.wihu.es:8080",
-    "objectID": 18269,
-    "_geoloc": {
-      "lat": 37.2614,
-      "lon": -6.9447
-    }
-  },
-  {
     "url": "http://link.ax3.it:8080/speedtest/upload.php",
     "name": "Caltagirone",
     "country": "Italy",
@@ -47530,6 +47479,19 @@
     "sponsor": "Go Fiber",
     "host": "speedtest.gofiber.tech:8080",
     "objectID": 15807,
+    "_geoloc": {
+      "lat": 37.0953,
+      "lon": -113.5781
+    }
+  },
+  {
+    "url": "http://speed.washk12.org/speedtest/upload.php",
+    "name": "St. George, UT",
+    "country": "United States",
+    "cc": "US",
+    "sponsor": "Washington County School District",
+    "host": "speedtest.washk12.org:8080",
+    "objectID": 21161,
     "_geoloc": {
       "lat": 37.0953,
       "lon": -113.5781
@@ -48191,6 +48153,19 @@
     }
   },
   {
+    "url": "http://speedtest.armaza.tel:8080/speedtest/upload.php",
+    "name": "Kilis",
+    "country": "Turkey",
+    "cc": "TR",
+    "sponsor": "ARMAZA TEL",
+    "host": "speedtest.armaza.tel:8080",
+    "objectID": 16879,
+    "_geoloc": {
+      "lat": 36.7165,
+      "lon": 37.1147
+    }
+  },
+  {
     "url": "http://speedtest.ptsi.net:8080/speedtest/upload.php",
     "name": "Guymon, OK",
     "country": "United States",
@@ -48295,6 +48270,19 @@
     "_geoloc": {
       "lat": 36.6,
       "lon": 105.32
+    }
+  },
+  {
+    "url": "http://speedtest.fiberconnect.tel:8080/speedtest/upload.php",
+    "name": "Iskenderun",
+    "country": "Turkey",
+    "cc": "TR",
+    "sponsor": "FIBERCONNECT",
+    "host": "speedtest.fiberconnect.tel:8080",
+    "objectID": 18761,
+    "_geoloc": {
+      "lat": 36.5847,
+      "lon": 36.1756
     }
   },
   {
@@ -49781,20 +49769,6 @@
     }
   },
   {
-    "url": "http://speedtest.azmagroup.com:8080/speedtest/upload.php",
-    "name": "Tehran",
-    "country": "Iran",
-    "cc": "IR",
-    "sponsor": "Farhang Azma (FACC)",
-    "url2": "http://speedtest1.azmagroup.com/speedtest/upload.php",
-    "host": "speedtest.azmagroup.com:8080",
-    "objectID": 6272,
-    "_geoloc": {
-      "lat": 35.6833,
-      "lon": 51.4167
-    }
-  },
-  {
     "url": "http://speedtest1.linkpardaz.net:8080/speedtest/upload.php",
     "name": "Tehran",
     "country": "Iran",
@@ -49803,6 +49777,20 @@
     "url2": "http://speedtest2.linkpardaz.net/speedtest/upload.php",
     "host": "speedtest1.linkpardaz.net:8080",
     "objectID": 9942,
+    "_geoloc": {
+      "lat": 35.6833,
+      "lon": 51.4167
+    }
+  },
+  {
+    "url": "http://speedtest.azmagroup.com:8080/speedtest/upload.php",
+    "name": "Tehran",
+    "country": "Iran",
+    "cc": "IR",
+    "sponsor": "Farhang Azma (FACC)",
+    "url2": "http://speedtest1.azmagroup.com/speedtest/upload.php",
+    "host": "speedtest.azmagroup.com:8080",
+    "objectID": 6272,
     "_geoloc": {
       "lat": 35.6833,
       "lon": 51.4167
@@ -50044,6 +50032,20 @@
     "_geoloc": {
       "lat": 35.5799,
       "lon": -82.5558
+    }
+  },
+  {
+    "url": "http://sp5.atcc-gns.net:8080/speedtest/upload.php",
+    "name": "Sagamihara",
+    "country": "Japan",
+    "cc": "JP",
+    "sponsor": "Allied Telesis Capital Corporation",
+    "url2": "http://sp6.atcc-gns.net/speedtest/upload.aspx",
+    "host": "sp5.atcc-gns.net:8080",
+    "objectID": 8407,
+    "_geoloc": {
+      "lat": 35.5715,
+      "lon": 139.3732
     }
   },
   {
@@ -54886,20 +54888,6 @@
     }
   },
   {
-    "url": "http://speedtest3.pelephone.net.il:8080/speedtest/upload.php",
-    "name": "Tel Aviv",
-    "country": "Israel",
-    "cc": "IL",
-    "sponsor": "Pelephone Communications",
-    "url2": "http://speedtest4.pelephone.net.il/speedtest/upload.php",
-    "host": "speedtest3.pelephone.net.il:8080",
-    "objectID": 5803,
-    "_geoloc": {
-      "lat": 32.0667,
-      "lon": 34.7833
-    }
-  },
-  {
     "url": "http://sp3.099.net.il:8080/speedtest/upload.php",
     "name": "Tel Aviv",
     "country": "Israel",
@@ -54908,6 +54896,20 @@
     "url2": "http://sp4.099.net.il/speedtest/upload.php",
     "host": "sp3.099.net.il:8080",
     "objectID": 10553,
+    "_geoloc": {
+      "lat": 32.0667,
+      "lon": 34.7833
+    }
+  },
+  {
+    "url": "http://speedtest3.pelephone.net.il:8080/speedtest/upload.php",
+    "name": "Tel Aviv",
+    "country": "Israel",
+    "cc": "IL",
+    "sponsor": "Pelephone Communications",
+    "url2": "http://speedtest4.pelephone.net.il/speedtest/upload.php",
+    "host": "speedtest3.pelephone.net.il:8080",
+    "objectID": 5803,
     "_geoloc": {
       "lat": 32.0667,
       "lon": 34.7833
@@ -55615,19 +55617,6 @@
     }
   },
   {
-    "url": "http://speedtest.wateen.net/speedtest/upload.php",
-    "name": "Lahore",
-    "country": "Pakistan",
-    "cc": "PK",
-    "sponsor": "Wateen Telecom",
-    "host": "speedtest.wateen.net:8080",
-    "objectID": 14780,
-    "_geoloc": {
-      "lat": 31.5395,
-      "lon": 74.3035
-    }
-  },
-  {
     "url": "http://speedtest-lhr1.zong.com.pk:8080/speedtest/upload.php",
     "name": "Lahore",
     "country": "Pakistan",
@@ -55815,19 +55804,6 @@
     "_geoloc": {
       "lat": 31.3403,
       "lon": -110.9336
-    }
-  },
-  {
-    "url": "http://ookla.dreamtel.in:8080/speedtest/upload.php",
-    "name": "Jalandhar",
-    "country": "India",
-    "cc": "IN",
-    "sponsor": "ApnaTeleLink Pvt Ltd",
-    "host": "ookla.dreamtel.in:8080",
-    "objectID": 19209,
-    "_geoloc": {
-      "lat": 31.326,
-      "lon": 75.5762
     }
   },
   {
@@ -56243,6 +56219,19 @@
     }
   },
   {
+    "url": "http://st1pkl.estobroadband.in:8080/speedtest/upload.php",
+    "name": "Panchkula",
+    "country": "India",
+    "cc": "IN",
+    "sponsor": "Esto Broadband",
+    "host": "st1pkl.estobroadband.in:8080",
+    "objectID": 15591,
+    "_geoloc": {
+      "lat": 30.6942,
+      "lon": 76.8606
+    }
+  },
+  {
     "url": "http://speedtest1.wangjia.net:8080/speedtest/upload.php",
     "name": "Chengdu",
     "country": "China",
@@ -56309,19 +56298,6 @@
     "_geoloc": {
       "lat": 30.6014,
       "lon": -96.3144
-    }
-  },
-  {
-    "url": "http://vipspeedtest4.wuhan.net.cn:8080/speedtest/upload.php",
-    "name": "Wuhan",
-    "country": "China",
-    "cc": "CN",
-    "sponsor": "China Telecom Wuhan Branch-2",
-    "host": "vipspeedtest4.wuhan.net.cn:8080",
-    "objectID": 24011,
-    "_geoloc": {
-      "lat": 30.5833,
-      "lon": 114.2833
     }
   },
   {
@@ -57307,6 +57283,19 @@
     }
   },
   {
+    "url": "http://speedtest1.xz.chinamobile.com:8080/speedtest/upload.php",
+    "name": "Lhasa",
+    "country": "China",
+    "cc": "CN",
+    "sponsor": "China Mobile Group Tibet",
+    "host": "speedtest1.xz.chinamobile.com:8080",
+    "objectID": 18444,
+    "_geoloc": {
+      "lat": 29.65,
+      "lon": 91.1
+    }
+  },
+  {
     "url": "http://szaspd2.mci.ir/upload.php",
     "name": "Shiraz",
     "country": "Iran",
@@ -58087,20 +58076,6 @@
     }
   },
   {
-    "url": "http://spnoi.pcpli.net:8080/speedtest/upload.php",
-    "name": "Noida",
-    "country": "India",
-    "cc": "IN",
-    "sponsor": "Powernet Communications Pvt. Ltd.",
-    "url2": "http://speeddelhi2.truebroadbandservice.com/speedtest/upload.aspx",
-    "host": "spnoi.pcpli.net:8080",
-    "objectID": 10193,
-    "_geoloc": {
-      "lat": 28.61,
-      "lon": 77.23
-    }
-  },
-  {
     "url": "http://speed.iforcenetworks.co.in:8080/speedtest/upload.php",
     "name": "New Delhi",
     "country": "India",
@@ -58109,6 +58084,20 @@
     "url2": "http://speed.iforcenetworks.co.in/speed1/upload.php",
     "host": "speed.iforcenetworks.co.in:8080",
     "objectID": 7236,
+    "_geoloc": {
+      "lat": 28.61,
+      "lon": 77.23
+    }
+  },
+  {
+    "url": "http://spnoi.pcpli.net:8080/speedtest/upload.php",
+    "name": "Noida",
+    "country": "India",
+    "cc": "IN",
+    "sponsor": "Powernet Communications Pvt. Ltd.",
+    "url2": "http://speeddelhi2.truebroadbandservice.com/speedtest/upload.aspx",
+    "host": "spnoi.pcpli.net:8080",
+    "objectID": 10193,
     "_geoloc": {
       "lat": 28.61,
       "lon": 77.23
@@ -58129,14 +58118,13 @@
     }
   },
   {
-    "url": "http://sp1.denbroadband.in:8080/speedtest/upload.php",
+    "url": "http://sp1.weebo.in:8080/speedtest/upload.php",
     "name": "New Delhi",
     "country": "India",
     "cc": "IN",
-    "sponsor": "Den Networks Ltd",
-    "url2": "http://sp2.denbroadband.in/speedtest/upload.php",
-    "host": "sp1.denbroadband.in:8080",
-    "objectID": 8882,
+    "sponsor": "Weebo Networks Pvt Ltd",
+    "host": "sp1.weebo.in:8080",
+    "objectID": 16475,
     "_geoloc": {
       "lat": 28.61,
       "lon": 77.23
@@ -58156,13 +58144,14 @@
     }
   },
   {
-    "url": "http://sp1.weebo.in:8080/speedtest/upload.php",
+    "url": "http://sp1.denbroadband.in:8080/speedtest/upload.php",
     "name": "New Delhi",
     "country": "India",
     "cc": "IN",
-    "sponsor": "Weebo Networks Pvt Ltd",
-    "host": "sp1.weebo.in:8080",
-    "objectID": 16475,
+    "sponsor": "Den Networks Ltd",
+    "url2": "http://sp2.denbroadband.in/speedtest/upload.php",
+    "host": "sp1.denbroadband.in:8080",
+    "objectID": 8882,
     "_geoloc": {
       "lat": 28.61,
       "lon": 77.23
@@ -58392,19 +58381,6 @@
     "url2": "http://ost2.hostdime.in/speedtest/upload.php",
     "host": "ost.hostdime.in:8080",
     "objectID": 9895,
-    "_geoloc": {
-      "lat": 28.57,
-      "lon": 77.32
-    }
-  },
-  {
-    "url": "http://sp1.preciousnetcom.in:8080/speedtest/upload.php",
-    "name": "Noida",
-    "country": "India",
-    "cc": "IN",
-    "sponsor": "Precious Netcom Pvt. Ltd.",
-    "host": "sp1.preciousnetcom.in:8080",
-    "objectID": 12384,
     "_geoloc": {
       "lat": 28.57,
       "lon": 77.32
@@ -58759,20 +58735,6 @@
     }
   },
   {
-    "url": "http://speedtestnet.flhsi.com:8080/speedtest/upload.php",
-    "name": "Cocoa, FL",
-    "country": "United States",
-    "cc": "US",
-    "sponsor": "FL High Speed Internet",
-    "url2": "http://speedtestnet2.flhsi.com/upload.php",
-    "host": "speedtestnet.flhsi.com:8080",
-    "objectID": 1716,
-    "_geoloc": {
-      "lat": 28.3694,
-      "lon": -80.7439
-    }
-  },
-  {
     "url": "http://speed2.aitspl.in:8080/speedtest/upload.php",
     "name": "Surajgarh",
     "country": "India",
@@ -58826,19 +58788,6 @@
     }
   },
   {
-    "url": "http://speedtest.pbx-change.com:8080/speedtest/upload.php",
-    "name": "Tampa, FL",
-    "country": "US",
-    "cc": "US",
-    "sponsor": "Tampa Bay Fiber",
-    "host": "speedtest.pbx-change.com:8080",
-    "objectID": 17026,
-    "_geoloc": {
-      "lat": 27.9506,
-      "lon": -82.4572
-    }
-  },
-  {
     "url": "http://speedtest.net.usf.edu:8080/speedtest/upload.php",
     "name": "Tampa, FL",
     "country": "United States",
@@ -58846,6 +58795,19 @@
     "sponsor": "University of South Florida",
     "host": "speedtest.net.usf.edu:8080",
     "objectID": 11293,
+    "_geoloc": {
+      "lat": 27.9506,
+      "lon": -82.4572
+    }
+  },
+  {
+    "url": "http://speedtest.pbx-change.com:8080/speedtest/upload.php",
+    "name": "Tampa, FL",
+    "country": "US",
+    "cc": "US",
+    "sponsor": "Tampa Bay Fiber",
+    "host": "speedtest.pbx-change.com:8080",
+    "objectID": 17026,
     "_geoloc": {
       "lat": 27.9506,
       "lon": -82.4572
@@ -60730,19 +60692,6 @@
     }
   },
   {
-    "url": "http://st1.wvnpl.com:8080/speedtest/upload.php",
-    "name": "Varanasi",
-    "country": "IN",
-    "cc": "IN",
-    "sponsor": "World Vision Networks Private Limited",
-    "host": "st1.wvnpl.com:8080",
-    "objectID": 17467,
-    "_geoloc": {
-      "lat": 25.3176,
-      "lon": 82.9739
-    }
-  },
-  {
     "url": "http://speedtest.ikonbroadband.com:8080/speedtest/upload.php",
     "name": "Varanasi",
     "country": "India",
@@ -61127,6 +61076,19 @@
     }
   },
   {
+    "url": "http://qw-tpspt1.wifly.com.tw:8080/speedtest/upload.php",
+    "name": "Taipei",
+    "country": "Taiwan",
+    "cc": "TW",
+    "sponsor": "WiFly",
+    "host": "qw-tpspt1.wifly.com.tw:8080",
+    "objectID": 18421,
+    "_geoloc": {
+      "lat": 25.0333,
+      "lon": 121.5333
+    }
+  },
+  {
     "url": "http://parqspt1.fetnet.net:8080/speedtest/upload.php",
     "name": "Taipei",
     "country": "Taiwan",
@@ -61135,19 +61097,6 @@
     "url2": "Http://parqspt2.fetnet.net/speedtest/upload.php",
     "host": "parqspt1.fetnet.net:8080",
     "objectID": 5661,
-    "_geoloc": {
-      "lat": 25.0333,
-      "lon": 121.5333
-    }
-  },
-  {
-    "url": "http://qw-tpspt1.wifly.com.tw:8080/speedtest/upload.php",
-    "name": "Taipei",
-    "country": "Taiwan",
-    "cc": "TW",
-    "sponsor": "WiFly",
-    "host": "qw-tpspt1.wifly.com.tw:8080",
-    "objectID": 18421,
     "_geoloc": {
       "lat": 25.0333,
       "lon": 121.5333
@@ -62806,6 +62755,20 @@
     }
   },
   {
+    "url": "http://speedtest1.gd.chinamobile.com:8080/speedtest/upload.php",
+    "name": "Guangzhou",
+    "country": "China",
+    "cc": "CN",
+    "sponsor": "China Mobile,Guangdong",
+    "url2": "http://gzcmcc2.gd.chinamobile.com/speedtest/upload.php",
+    "host": "speedtest1.gd.chinamobile.com:8080",
+    "objectID": 6611,
+    "_geoloc": {
+      "lat": 23.1333,
+      "lon": 113.2667
+    }
+  },
+  {
     "url": "http://sp1.kutchtelelink.com:8080/speedtest/upload.php",
     "name": "Gandhidham",
     "country": "India",
@@ -63005,19 +62968,6 @@
     }
   },
   {
-    "url": "http://tn-speedtest-1.twmbroadband.net:8080/speedtest/upload.php",
-    "name": "Tainan",
-    "country": "Taiwan",
-    "cc": "TW",
-    "sponsor": "TFN Media",
-    "host": "tn-speedtest-1.twmbroadband.net:8080",
-    "objectID": 12589,
-    "_geoloc": {
-      "lat": 22.9833,
-      "lon": 120.1833
-    }
-  },
-  {
     "url": "http://tn-speedtest.bbtv.tw:8080/speedtest/upload.php",
     "name": "Tainan",
     "country": "Taiwan",
@@ -63025,6 +62975,19 @@
     "sponsor": "CNS",
     "host": "tn-speedtest.bbtv.tw:8080",
     "objectID": 24377,
+    "_geoloc": {
+      "lat": 22.9833,
+      "lon": 120.1833
+    }
+  },
+  {
+    "url": "http://tn-speedtest-1.twmbroadband.net:8080/speedtest/upload.php",
+    "name": "Tainan",
+    "country": "Taiwan",
+    "cc": "TW",
+    "sponsor": "TFN Media",
+    "host": "tn-speedtest-1.twmbroadband.net:8080",
+    "objectID": 12589,
     "_geoloc": {
       "lat": 22.9833,
       "lon": 120.1833
@@ -64808,6 +64771,20 @@
     }
   },
   {
+    "url": "http://hostbox.on2cloud.com:5060/speedtest/upload.php",
+    "name": "Nagpur",
+    "country": "India",
+    "cc": "IN",
+    "sponsor": "PASSIT MEDIA & COMM. PVT. LTD.",
+    "url2": "http://hostbox.on2cloud.com/speedtest/upload.php",
+    "host": "hostbox.on2cloud.com:8080",
+    "objectID": 10851,
+    "_geoloc": {
+      "lat": 21.1458,
+      "lon": 79.0882
+    }
+  },
+  {
     "url": "http://speedtest1-leon.triara.com:5060/speedtest/upload.php",
     "name": "Leon",
     "country": "Mexico",
@@ -65420,19 +65397,6 @@
     }
   },
   {
-    "url": "http://sp1.myhtpl.in:8080/speedtest/upload.php",
-    "name": "Bhubaneswar",
-    "country": "India",
-    "cc": "IN",
-    "sponsor": "Hbs Telesoft Private Limited",
-    "host": "sp1.myhtpl.in:8080",
-    "objectID": 22537,
-    "_geoloc": {
-      "lat": 20.2961,
-      "lon": 85.8245
-    }
-  },
-  {
     "url": "http://test1.jetspotspeed.com:8080/speedtest/upload.php",
     "name": "Bhubaneswar",
     "country": "India",
@@ -65510,20 +65474,6 @@
     "_geoloc": {
       "lat": 19.9105,
       "lon": 99.8406
-    }
-  },
-  {
-    "url": "http://aurspeedtest.gazonindia.com:8080/speedtest/upload.php",
-    "name": "Aurangabad",
-    "country": "India",
-    "cc": "IN",
-    "sponsor": "Gazon Communications India Limited",
-    "url2": "http://speedtest.shreeitsolutions.in/speedtest/upload.php",
-    "host": "aurspeedtest.gazonindia.com:8080",
-    "objectID": 5964,
-    "_geoloc": {
-      "lat": 19.88,
-      "lon": 75.32
     }
   },
   {
@@ -65701,6 +65651,20 @@
     }
   },
   {
+    "url": "http://187.190.119.158/speedtest/upload.php",
+    "name": "Tultitlan de Mariano Escobedo",
+    "country": "Mexico",
+    "cc": "MX",
+    "sponsor": "Totalplay",
+    "url2": "http://187.190.119.158/upload.php",
+    "host": "187.190.119.158:8080",
+    "objectID": 8255,
+    "_geoloc": {
+      "lat": 19.645,
+      "lon": -99.1694
+    }
+  },
+  {
     "url": "http://speedtest.altanredes.com:8080/speedtest/upload.php",
     "name": "Tultitlán",
     "country": "Mexico",
@@ -65711,19 +65675,6 @@
     "_geoloc": {
       "lat": 19.645,
       "lon": -99.1694
-    }
-  },
-  {
-    "url": "http://speed1.ecamex.attmex.mx:8080/speedtest/upload.php",
-    "name": "Ecatepec",
-    "country": "Mexico",
-    "cc": "MX",
-    "sponsor": "AT&T México",
-    "host": "speed1.ecamex.attmex.mx:8080",
-    "objectID": 12034,
-    "_geoloc": {
-      "lat": 19.6018,
-      "lon": -99.0507
     }
   },
   {
@@ -66468,6 +66419,19 @@
     }
   },
   {
+    "url": "http://speedtest.fivenetwork.com/upload.php",
+    "name": "Mumbai",
+    "country": "India",
+    "cc": "IN",
+    "sponsor": "Five Network Solution India Limited",
+    "host": "speedtest.fivenetwork.com:8080",
+    "objectID": 14302,
+    "_geoloc": {
+      "lat": 18.9647,
+      "lon": 72.8258
+    }
+  },
+  {
     "url": "http://in2net.in2cable.com:8080/speedtest/upload.php",
     "name": "Mumbai",
     "country": "India",
@@ -66476,19 +66440,6 @@
     "url2": "http://in2net2.in2cable.com/speedtest2/upload.aspx",
     "host": "in2net.in2cable.com:8080",
     "objectID": 10637,
-    "_geoloc": {
-      "lat": 18.9647,
-      "lon": 72.8258
-    }
-  },
-  {
-    "url": "http://speedtest.fivenetwork.com/upload.php",
-    "name": "Mumbai",
-    "country": "India",
-    "cc": "IN",
-    "sponsor": "Five Network Solution India Limited",
-    "host": "speedtest.fivenetwork.com:8080",
-    "objectID": 14302,
     "_geoloc": {
       "lat": 18.9647,
       "lon": 72.8258
@@ -66604,20 +66555,6 @@
     }
   },
   {
-    "url": "http://speed1.softcall.net.in:8080/speedtest/upload.php",
-    "name": "Mumbai",
-    "country": "India",
-    "cc": "IN",
-    "sponsor": "SoftCall Coc Pvt Ltd",
-    "url2": "http://speed2.softcall.net.in/speedtest/upload.php",
-    "host": "speed1.softcall.net.in:8080",
-    "objectID": 7950,
-    "_geoloc": {
-      "lat": 18.9647,
-      "lon": 72.8258
-    }
-  },
-  {
     "url": "http://sp1-mum.youbroadband.in:8080/speedtest/upload.php",
     "name": "Mumbai",
     "country": "India",
@@ -66626,6 +66563,20 @@
     "url2": "http://sp2-mum.youbroadband.in/speedtest/upload.php",
     "host": "sp1-mum.youbroadband.in:8080",
     "objectID": 6403,
+    "_geoloc": {
+      "lat": 18.9647,
+      "lon": 72.8258
+    }
+  },
+  {
+    "url": "http://speed1.softcall.net.in:8080/speedtest/upload.php",
+    "name": "Mumbai",
+    "country": "India",
+    "cc": "IN",
+    "sponsor": "SoftCall Coc Pvt Ltd",
+    "url2": "http://speed2.softcall.net.in/speedtest/upload.php",
+    "host": "speed1.softcall.net.in:8080",
+    "objectID": 7950,
     "_geoloc": {
       "lat": 18.9647,
       "lon": 72.8258
@@ -67667,19 +67618,6 @@
     }
   },
   {
-    "url": "http://sp1.ubercore.company:8080/speedtest/upload.php",
-    "name": "Bidar",
-    "country": "India",
-    "cc": "IN",
-    "sponsor": "Ubercore",
-    "host": "sp1.ubercore.company:8080",
-    "objectID": 21202,
-    "_geoloc": {
-      "lat": 17.9149,
-      "lon": 77.5046
-    }
-  },
-  {
     "url": "http://stx-fre-speedtest.vipowernet.net:8080/speedtest/upload.php",
     "name": "Saint Croix",
     "country": "Virgin Islands",
@@ -67736,20 +67674,6 @@
     }
   },
   {
-    "url": "http://sp1-viz.youbroadband.in:8080/speedtest/upload.php",
-    "name": "Vishakapatnam",
-    "country": "India",
-    "cc": "IN",
-    "sponsor": "YOU Broadband India Pvt Ltd.",
-    "url2": "http://sp2-viz.youbroadband.in/speedtest/upload.php",
-    "host": "sp1-viz.youbroadband.in:8080",
-    "objectID": 6451,
-    "_geoloc": {
-      "lat": 17.6883,
-      "lon": 83.2186
-    }
-  },
-  {
     "url": "http://vizspeedtest.acttv.in:8080/speedtest/upload.php",
     "name": "Visakhapatnam",
     "country": "India",
@@ -67758,6 +67682,20 @@
     "url2": "http://vizspeedtest.acttv.net/speedtest/upload.php",
     "host": "vizspeedtest.acttv.in:8080",
     "objectID": 7895,
+    "_geoloc": {
+      "lat": 17.6883,
+      "lon": 83.2186
+    }
+  },
+  {
+    "url": "http://sp1-viz.youbroadband.in:8080/speedtest/upload.php",
+    "name": "Vishakapatnam",
+    "country": "India",
+    "cc": "IN",
+    "sponsor": "YOU Broadband India Pvt Ltd.",
+    "url2": "http://sp2-viz.youbroadband.in/speedtest/upload.php",
+    "host": "sp1-viz.youbroadband.in:8080",
+    "objectID": 6451,
     "_geoloc": {
       "lat": 17.6883,
       "lon": 83.2186
@@ -68201,19 +68139,6 @@
     }
   },
   {
-    "url": "http://sp1.gulbarganet.in:8080/speedtest/upload.php",
-    "name": "Gulbarga",
-    "country": "India",
-    "cc": "IN",
-    "sponsor": "Gulbarganet Broadband",
-    "host": "sp1.gulbarganet.in:8080",
-    "objectID": 11875,
-    "_geoloc": {
-      "lat": 17.3297,
-      "lon": 76.8343
-    }
-  },
-  {
     "url": "http://minispeedtest.thecable.net:8080/speedtest/upload.php",
     "name": "Basseterre",
     "country": "Saint Kitts and Nevis",
@@ -68305,19 +68230,6 @@
     "_geoloc": {
       "lat": 17.1546,
       "lon": 104.1348
-    }
-  },
-  {
-    "url": "http://shahabad.gulbarganet.in:8080/speedtest/upload.php",
-    "name": "Shahabad",
-    "country": "India",
-    "cc": "IN",
-    "sponsor": "jimmi broadband & cable services",
-    "host": "shahabad.gulbarganet.in:8080",
-    "objectID": 21885,
-    "_geoloc": {
-      "lat": 17.1488,
-      "lon": 76.9393
     }
   },
   {
@@ -69106,20 +69018,6 @@
     }
   },
   {
-    "url": "http://www.tevisat.net/mini/speedtest/upload.aspx",
-    "name": "La Ceiba",
-    "country": "Honduras",
-    "cc": "HN",
-    "sponsor": "Tevisat, S.A.",
-    "url2": "http://speedtest.tevisat.net/speedtest/upload.aspx",
-    "host": "www.tevisat.net:8080",
-    "objectID": 4074,
-    "_geoloc": {
-      "lat": 15.7667,
-      "lon": -86.8333
-    }
-  },
-  {
     "url": "http://speedtest-nsn1.3bb.co.th/speedtest/upload.php",
     "name": "Nakhon Sawan",
     "country": "Thailand",
@@ -69373,19 +69271,6 @@
     }
   },
   {
-    "url": "http://speedtest.alegra.in:8080/speedtest/upload.php",
-    "name": "Margao",
-    "country": "India",
-    "cc": "IN",
-    "sponsor": "ALEGRA-IN",
-    "host": "speedtest.alegra.in:8080",
-    "objectID": 14513,
-    "_geoloc": {
-      "lat": 15.2832,
-      "lon": 73.9862
-    }
-  },
-  {
     "url": "http://speedtest.flashcomnetwork.com:8080/speedtest/upload.php",
     "name": "Margao",
     "country": "India",
@@ -69502,19 +69387,6 @@
     "_geoloc": {
       "lat": 14.975,
       "lon": 102.1
-    }
-  },
-  {
-    "url": "http://testedevelocidade.cvmultimedia.cv:8080/speedtest/upload.php",
-    "name": "Praia",
-    "country": "Cape Verde",
-    "cc": "CV",
-    "sponsor": "CVMultimedia",
-    "host": "testedevelocidade.cvmultimedia.cv:8080",
-    "objectID": 14005,
-    "_geoloc": {
-      "lat": 14.915,
-      "lon": -23.5119
     }
   },
   {
@@ -70802,19 +70674,6 @@
     }
   },
   {
-    "url": "http://speed.imbroadbandmpl.com:8080/speedtest/upload.php",
-    "name": "Madanapalle",
-    "country": "India",
-    "cc": "IN",
-    "sponsor": "IM Broadband",
-    "host": "speed.imbroadbandmpl.com:8080",
-    "objectID": 11095,
-    "_geoloc": {
-      "lat": 13.5603,
-      "lon": 78.5036
-    }
-  },
-  {
     "url": "http://speedtest.ne.airtel.com:8080/speedtest/upload.php",
     "name": "Niamey",
     "country": "Niger",
@@ -71430,19 +71289,6 @@
     }
   },
   {
-    "url": "http://speedtest1.gcnbroadband.com:8080/speedtest/upload.php",
-    "name": "Bangalore",
-    "country": "India",
-    "cc": "IN",
-    "sponsor": "GCN Broadband",
-    "host": "speedtest1.gcnbroadband.com:8080",
-    "objectID": 19998,
-    "_geoloc": {
-      "lat": 12.9833,
-      "lon": 77.5833
-    }
-  },
-  {
     "url": "http://bangalorespeedtest.spectra.co:8080/speedtest/upload.php",
     "name": "Bangalore",
     "country": "India",
@@ -71451,6 +71297,19 @@
     "url2": "http://bangalorespeedtest1.spectra.co/upload/upload.php",
     "host": "bangalorespeedtest.spectra.co:8080",
     "objectID": 10204,
+    "_geoloc": {
+      "lat": 12.9833,
+      "lon": 77.5833
+    }
+  },
+  {
+    "url": "http://speedtest1.gcnbroadband.com:8080/speedtest/upload.php",
+    "name": "Bangalore",
+    "country": "India",
+    "cc": "IN",
+    "sponsor": "GCN Broadband",
+    "host": "speedtest1.gcnbroadband.com:8080",
+    "objectID": 19998,
     "_geoloc": {
       "lat": 12.9833,
       "lon": 77.5833
@@ -71570,19 +71429,6 @@
     "sponsor": "SB Broadband Services Pvt. Ltd.",
     "host": "sp1.sbnetworks.co.in:8080",
     "objectID": 15493,
-    "_geoloc": {
-      "lat": 12.9833,
-      "lon": 77.5833
-    }
-  },
-  {
-    "url": "http://sp1.opto.net.in:8080/speedtest/upload.php",
-    "name": "Bangalore",
-    "country": "India",
-    "cc": "IN",
-    "sponsor": "OPTO NET",
-    "host": "sp1.opto.net.in:8080",
-    "objectID": 19171,
     "_geoloc": {
       "lat": 12.9833,
       "lon": 77.5833
@@ -73004,6 +72850,19 @@
     }
   },
   {
+    "url": "http://vnmhcmspt1.vietnamobile.com.vn:8080/speedtest/upload.php",
+    "name": "Ho Chi Minh",
+    "country": "VN",
+    "cc": "VN",
+    "sponsor": "Vietnamobile",
+    "host": "vnmhcmspt1.vietnamobile.com.vn:8080",
+    "objectID": 16749,
+    "_geoloc": {
+      "lat": 10.75,
+      "lon": 106.6667
+    }
+  },
+  {
     "url": "http://sp1.supernet.vn:8080/speedtest/upload.php",
     "name": "Ho Chi Minh City",
     "country": "Vietnam",
@@ -73012,19 +72871,6 @@
     "url2": "http://sp2.supernet.vn/speedtest/upload.php",
     "host": "sp1.supernet.vn:8080",
     "objectID": 9668,
-    "_geoloc": {
-      "lat": 10.75,
-      "lon": 106.6667
-    }
-  },
-  {
-    "url": "http://vnmhcmspt1.vietnamobile.com.vn:8080/speedtest/upload.php",
-    "name": "Ho Chi Minh",
-    "country": "VN",
-    "cc": "VN",
-    "sponsor": "Vietnamobile",
-    "host": "vnmhcmspt1.vietnamobile.com.vn:8080",
-    "objectID": 16749,
     "_geoloc": {
       "lat": 10.75,
       "lon": 106.6667
@@ -73121,19 +72967,6 @@
     "_geoloc": {
       "lat": 10.6411,
       "lon": -61.4506
-    }
-  },
-  {
-    "url": "http://speedtest.keralavisionisp.com:8080/speedtest/upload.php",
-    "name": "Thrissur",
-    "country": "IN",
-    "cc": "IN",
-    "sponsor": "Kerala Vision ISP",
-    "host": "speedtest.keralavisionisp.com:8080",
-    "objectID": 17289,
-    "_geoloc": {
-      "lat": 10.5276,
-      "lon": 76.2144
     }
   },
   {
@@ -73371,6 +73204,20 @@
     "sponsor": "RVR Networks",
     "host": "myspeed1.rvrnetworks.com:8080",
     "objectID": 15151,
+    "_geoloc": {
+      "lat": 10.266,
+      "lon": -61.3764
+    }
+  },
+  {
+    "url": "http://dcspeedtest.airlinktt.co:8080/speedtest/upload.php",
+    "name": "Princes Town",
+    "country": "Trinidad and Tobago",
+    "cc": "TT",
+    "sponsor": "Airlink Communications",
+    "url2": "http://dcspeedtest2.airlinktt.co/speedtest/upload.php",
+    "host": "dcspeedtest.airlinktt.co:8080",
+    "objectID": 9588,
     "_geoloc": {
       "lat": 10.266,
       "lon": -61.3764
@@ -73797,19 +73644,6 @@
     "sponsor": "MTN Guinea",
     "host": "speedtest.mtn.com.gn:8080",
     "objectID": 11909,
-    "_geoloc": {
-      "lat": 9.5092,
-      "lon": -13.7122
-    }
-  },
-  {
-    "url": "http://speedbandtest.vdctelecom.com/speedtest/upload.php",
-    "name": "Conakry",
-    "country": "Guinea",
-    "cc": "GN",
-    "sponsor": "VDC|Telecom",
-    "host": "speedbandtest.vdctelecom.com:8080",
-    "objectID": 15257,
     "_geoloc": {
       "lat": 9.5092,
       "lon": -13.7122
@@ -74369,19 +74203,6 @@
     "sponsor": "PNCC",
     "host": "speedtest.pnccpalau.com:8080",
     "objectID": 19008,
-    "_geoloc": {
-      "lat": 7.3376,
-      "lon": 134.4889
-    }
-  },
-  {
-    "url": "http://speedtest.telco.pw:8080/speedtest/upload.php",
-    "name": "Koror",
-    "country": "Republic of Palau",
-    "cc": "PW",
-    "sponsor": "Palau Telecoms",
-    "host": "speedtest.telco.pw:8080",
-    "objectID": 19143,
     "_geoloc": {
       "lat": 7.3376,
       "lon": 134.4889
@@ -79819,6 +79640,33 @@
     }
   },
   {
+    "url": "http://138.36.4.8:8080/speedtest/upload.php",
+    "name": "Mossoro",
+    "country": "Brazil",
+    "cc": "BR",
+    "sponsor": "Viva Telecom",
+    "url2": "http://din-138-36-4-8.vivatelecomnet.com.br/speedtest/upload.php",
+    "host": "138.36.4.8:8080",
+    "objectID": 7577,
+    "_geoloc": {
+      "lat": -5.1878,
+      "lon": -37.3439
+    }
+  },
+  {
+    "url": "http://teste01.ssmtelecom.com.br:8080/speedtest/upload.php",
+    "name": "Macau",
+    "country": "Brazil",
+    "cc": "BR",
+    "sponsor": "SSMTELECOM",
+    "host": "teste01.ssmtelecom.com.br:8080",
+    "objectID": 15512,
+    "_geoloc": {
+      "lat": -5.1943,
+      "lon": -36.4797
+    }
+  },
+  {
     "url": "http://speedtest1.provedormgnet.com.br:8080/speedtest/upload.php",
     "name": "Touros",
     "country": "Brazil",
@@ -80030,6 +79878,19 @@
     "_geoloc": {
       "lat": -5.5333,
       "lon": -47.4833
+    }
+  },
+  {
+    "url": "http://speedtest.hipernet.inf.br:8080/speedtest/upload.php",
+    "name": "Apodi",
+    "country": "Brazil",
+    "cc": "BR",
+    "sponsor": "Hipernet",
+    "host": "speedtest.hipernet.inf.br:8080",
+    "objectID": 15021,
+    "_geoloc": {
+      "lat": -5.6625,
+      "lon": -37.7988
     }
   },
   {
@@ -80549,20 +80410,6 @@
     }
   },
   {
-    "url": "http://speedtest.angkasa.id:8080/speedtest/upload.php",
-    "name": "Jakarta",
-    "country": "Indonesia",
-    "cc": "ID",
-    "sponsor": "PT Angkasa Komunikasi Global Utama",
-    "url2": "http://speedtest02.angkasa.id/speedtest/upload.php",
-    "host": "speedtest.angkasa.id:8080",
-    "objectID": 11033,
-    "_geoloc": {
-      "lat": -6.1745,
-      "lon": 106.8227
-    }
-  },
-  {
     "url": "http://speedtest.sdi.net.id:8080/speedtest/upload.php",
     "name": "Jakarta",
     "country": "Indonesia",
@@ -80571,6 +80418,20 @@
     "url2": "http://speedtest2.sdi.net.id/speedtest/upload.php",
     "host": "speedtest.sdi.net.id:8080",
     "objectID": 5777,
+    "_geoloc": {
+      "lat": -6.1745,
+      "lon": 106.8227
+    }
+  },
+  {
+    "url": "http://speedtest.angkasa.id:8080/speedtest/upload.php",
+    "name": "Jakarta",
+    "country": "Indonesia",
+    "cc": "ID",
+    "sponsor": "PT Angkasa Komunikasi Global Utama",
+    "url2": "http://speedtest02.angkasa.id/speedtest/upload.php",
+    "host": "speedtest.angkasa.id:8080",
+    "objectID": 11033,
     "_geoloc": {
       "lat": -6.1745,
       "lon": 106.8227
@@ -80686,19 +80547,6 @@
     }
   },
   {
-    "url": "http://speedtest1.inet.net.id:5060/speedtest/upload.php",
-    "name": "Jakarta",
-    "country": "Indonesia",
-    "cc": "ID",
-    "sponsor": "PT Inet Global Indo",
-    "host": "speedtest1.inet.net.id:8080",
-    "objectID": 11052,
-    "_geoloc": {
-      "lat": -6.1745,
-      "lon": 106.8227
-    }
-  },
-  {
     "url": "http://ookla-id1.buana.net:8080/speedtest/upload.php",
     "name": "Jakarta",
     "country": "Indonesia",
@@ -80706,6 +80554,19 @@
     "sponsor": "BUANA.NET by SUITEN.ID",
     "host": "ookla-id1.buana.net:8080",
     "objectID": 20932,
+    "_geoloc": {
+      "lat": -6.1745,
+      "lon": 106.8227
+    }
+  },
+  {
+    "url": "http://speedtest1.inet.net.id:5060/speedtest/upload.php",
+    "name": "Jakarta",
+    "country": "Indonesia",
+    "cc": "ID",
+    "sponsor": "PT Inet Global Indo",
+    "host": "speedtest1.inet.net.id:8080",
+    "objectID": 11052,
     "_geoloc": {
       "lat": -6.1745,
       "lon": 106.8227
@@ -80764,19 +80625,6 @@
     }
   },
   {
-    "url": "http://stest.ltn.net.id/speedtest/upload.php",
-    "name": "Jakarta",
-    "country": "Indonesia",
-    "cc": "ID",
-    "sponsor": "PT Lintas Telematika Nusantara",
-    "host": "stest.ltn.net.id:8080",
-    "objectID": 24940,
-    "_geoloc": {
-      "lat": -6.1745,
-      "lon": 106.8227
-    }
-  },
-  {
     "url": "http://speedtest2.centrin.net.id/upload.php",
     "name": "Jakarta",
     "country": "Indonesia",
@@ -80784,6 +80632,19 @@
     "sponsor": "Centrin Online",
     "host": "speedtest2.centrin.net.id:8080",
     "objectID": 24921,
+    "_geoloc": {
+      "lat": -6.1745,
+      "lon": 106.8227
+    }
+  },
+  {
+    "url": "http://stest.ltn.net.id/speedtest/upload.php",
+    "name": "Jakarta",
+    "country": "Indonesia",
+    "cc": "ID",
+    "sponsor": "PT Lintas Telematika Nusantara",
+    "host": "stest.ltn.net.id:8080",
+    "objectID": 24940,
     "_geoloc": {
       "lat": -6.1745,
       "lon": 106.8227
@@ -81029,6 +80890,20 @@
     }
   },
   {
+    "url": "http://167.250.140.7:5060/speedtest/upload.php",
+    "name": "Caico",
+    "country": "Brazil",
+    "cc": "BR",
+    "sponsor": "JHNET",
+    "url2": "http://din-167-250-140-7.jhnet.net.br/speedtest/upload.php",
+    "host": "167.250.140.7:8080",
+    "objectID": 8612,
+    "_geoloc": {
+      "lat": -6.45,
+      "lon": -37.1
+    }
+  },
+  {
     "url": "http://app3.v2net.com.br:8080/speedtest/upload.php",
     "name": "Caico",
     "country": "Brazil",
@@ -81036,6 +80911,20 @@
     "sponsor": "v2net",
     "host": "app3.v2net.com.br:8080",
     "objectID": 24535,
+    "_geoloc": {
+      "lat": -6.45,
+      "lon": -37.1
+    }
+  },
+  {
+    "url": "http://speedtest.itans.com.br:8080/speedtest/upload.php",
+    "name": "Caico",
+    "country": "Brazil",
+    "cc": "BR",
+    "sponsor": "NetOnline",
+    "url2": "http://speedtest2.itans.com.br/speedtest/upload.php",
+    "host": "speedtest.itans.com.br:8080",
+    "objectID": 9459,
     "_geoloc": {
       "lat": -6.45,
       "lon": -37.1
@@ -81199,19 +81088,6 @@
     "_geoloc": {
       "lat": -6.7441,
       "lon": -35.7188
-    }
-  },
-  {
-    "url": "http://www.ispmaistelecom.com.br/speedtest/upload.php",
-    "name": "Ourilandia do norte",
-    "country": "Brazil",
-    "cc": "BR",
-    "sponsor": "ISP MAIS TELECOM LTDA",
-    "host": "www.ispmaistelecom.com.br:8080",
-    "objectID": 24941,
-    "_geoloc": {
-      "lat": -6.7519,
-      "lon": -51.0774
     }
   },
   {
@@ -81851,19 +81727,6 @@
     }
   },
   {
-    "url": "http://sp1.weblinetelecom.com.br:8080/speedtest/upload.php",
-    "name": "Joao Pessoa",
-    "country": "Brazil",
-    "cc": "BR",
-    "sponsor": "Webline Telecom",
-    "host": "sp1.weblinetelecom.com.br:8080",
-    "objectID": 12207,
-    "_geoloc": {
-      "lat": -7.0833,
-      "lon": -34.8333
-    }
-  },
-  {
     "url": "http://sp3.alternativaip.net.br/speedtest/upload.php",
     "name": "Joao Pessoa",
     "country": "Brazil",
@@ -81871,6 +81734,19 @@
     "sponsor": "Alternativa Intenet",
     "host": "sp3.alternativaip.net.br:8080",
     "objectID": 24549,
+    "_geoloc": {
+      "lat": -7.0833,
+      "lon": -34.8333
+    }
+  },
+  {
+    "url": "http://sp1.weblinetelecom.com.br:8080/speedtest/upload.php",
+    "name": "Joao Pessoa",
+    "country": "Brazil",
+    "cc": "BR",
+    "sponsor": "Webline Telecom",
+    "host": "sp1.weblinetelecom.com.br:8080",
+    "objectID": 12207,
     "_geoloc": {
       "lat": -7.0833,
       "lon": -34.8333
@@ -84416,19 +84292,6 @@
     }
   },
   {
-    "url": "http://speedtest.satsol.tv:8080/speedtest/upload.php",
-    "name": "Honiara",
-    "country": "SB",
-    "cc": "SB",
-    "sponsor": "Satsol",
-    "host": "speedtest.satsol.tv:8080",
-    "objectID": 17653,
-    "_geoloc": {
-      "lat": -9.4351,
-      "lon": 159.9512
-    }
-  },
-  {
     "url": "http://speedtest1.pngixp.com:8080/speedtest/upload.php",
     "name": "Port Moresby",
     "country": "Papua New Guinea",
@@ -85305,19 +85168,6 @@
     }
   },
   {
-    "url": "http://speed.minastelecom.com.br:8080/speedtest/upload.php",
-    "name": "Lagarto",
-    "country": "Brazil",
-    "cc": "BR",
-    "sponsor": "Minas Telecom",
-    "host": "speed.minastelecom.com.br:8080",
-    "objectID": 24487,
-    "_geoloc": {
-      "lat": -10.883,
-      "lon": -37.633
-    }
-  },
-  {
     "url": "http://speedtest.bktele.com.br:8080/speedtest/upload.php",
     "name": "Aracaju",
     "country": "Brazil",
@@ -85463,19 +85313,6 @@
     }
   },
   {
-    "url": "http://speedtest2.veloznetaju.com.br:8080/speedtest/upload.php",
-    "name": "Aracaju",
-    "country": "Brazil",
-    "cc": "BR",
-    "sponsor": "VELOZNET",
-    "host": "speedtest2.veloznetaju.com.br:8080",
-    "objectID": 21354,
-    "_geoloc": {
-      "lat": -10.9472,
-      "lon": -37.0731
-    }
-  },
-  {
     "url": "http://teste.aju-net.com.br:8080/speedtest/upload.php",
     "name": "Aracaju",
     "country": "Brazil",
@@ -85483,6 +85320,19 @@
     "sponsor": "Aju Net",
     "host": "teste.aju-net.com.br:8080",
     "objectID": 23705,
+    "_geoloc": {
+      "lat": -10.9472,
+      "lon": -37.0731
+    }
+  },
+  {
+    "url": "http://speedtest2.veloznetaju.com.br:8080/speedtest/upload.php",
+    "name": "Aracaju",
+    "country": "Brazil",
+    "cc": "BR",
+    "sponsor": "VELOZNET",
+    "host": "speedtest2.veloznetaju.com.br:8080",
+    "objectID": 21354,
     "_geoloc": {
       "lat": -10.9472,
       "lon": -37.0731
@@ -86353,19 +86203,6 @@
     }
   },
   {
-    "url": "http://nobrenetwork.com.br:8080/speedtest/upload.php",
-    "name": "Feira de Santana",
-    "country": "Brazil",
-    "cc": "BR",
-    "sponsor": "Nobre Network",
-    "host": "nobrenetwork.com.br:8080",
-    "objectID": 14179,
-    "_geoloc": {
-      "lat": -12.2597,
-      "lon": -38.9646
-    }
-  },
-  {
     "url": "http://speedteste.g7provedor.com.br:8080/speedtest/upload.php",
     "name": "Feira De Santana",
     "country": "Brazil",
@@ -86373,6 +86210,19 @@
     "sponsor": "G7 Provedor",
     "host": "speedteste.g7provedor.com.br:8080",
     "objectID": 23611,
+    "_geoloc": {
+      "lat": -12.2597,
+      "lon": -38.9646
+    }
+  },
+  {
+    "url": "http://nobrenetwork.com.br:8080/speedtest/upload.php",
+    "name": "Feira de Santana",
+    "country": "Brazil",
+    "cc": "BR",
+    "sponsor": "Nobre Network",
+    "host": "nobrenetwork.com.br:8080",
+    "objectID": 14179,
     "_geoloc": {
       "lat": -12.2597,
       "lon": -38.9646
@@ -87040,19 +86890,6 @@
     }
   },
   {
-    "url": "http://speedtest.nextelecom.net.br:8080/speedtest/upload.php",
-    "name": "Salvador",
-    "country": "BR",
-    "cc": "BR",
-    "sponsor": "Nex Telecom",
-    "host": "speedtest.nextelecom.net.br:8080",
-    "objectID": 16648,
-    "_geoloc": {
-      "lat": -12.9747,
-      "lon": -38.4767
-    }
-  },
-  {
     "url": "http://187.17.52.46:8080/speedtest/upload.php",
     "name": "Salvador",
     "country": "Brazil",
@@ -87060,6 +86897,19 @@
     "sponsor": "Viva Telecom",
     "host": "187.17.52.46:8080",
     "objectID": 9119,
+    "_geoloc": {
+      "lat": -12.9747,
+      "lon": -38.4767
+    }
+  },
+  {
+    "url": "http://speedtest.nextelecom.net.br:8080/speedtest/upload.php",
+    "name": "Salvador",
+    "country": "BR",
+    "cc": "BR",
+    "sponsor": "Nex Telecom",
+    "host": "speedtest.nextelecom.net.br:8080",
+    "objectID": 16648,
     "_geoloc": {
       "lat": -12.9747,
       "lon": -38.4767
@@ -88510,19 +88360,6 @@
     }
   },
   {
-    "url": "http://speedtest.mgnetsal.com.br/speedtest/upload.php",
-    "name": "Salinas",
-    "country": "Brazil",
-    "cc": "BR",
-    "sponsor": "MG-NET FIBRA E WIRELESS",
-    "host": "speedtest.mgnetsal.com.br:8080",
-    "objectID": 24881,
-    "_geoloc": {
-      "lat": -16.1679,
-      "lon": -42.2939
-    }
-  },
-  {
     "url": "http://speedtest.ipw.com.br:8080/speedtest/upload.php",
     "name": "Almenara",
     "country": "Brazil",
@@ -88617,6 +88454,19 @@
     }
   },
   {
+    "url": "http://speedtest.upprovedor.com.br:8080/speedtest/upload.php",
+    "name": "Anápolis",
+    "country": "Brazil",
+    "cc": "BR",
+    "sponsor": "UP Provedor",
+    "host": "speedtest.upprovedor.com.br:8080",
+    "objectID": 22291,
+    "_geoloc": {
+      "lat": -16.3339,
+      "lon": -48.9519
+    }
+  },
+  {
     "url": "http://167.250.252.116:8080/speedtest/upload.php",
     "name": "Anapolis",
     "country": "Brazil",
@@ -88625,19 +88475,6 @@
     "url2": "http://speedtest1.maxlinktecnologia.com.br/speedtest/upload.php",
     "host": "167.250.252.116:8080",
     "objectID": 9807,
-    "_geoloc": {
-      "lat": -16.3339,
-      "lon": -48.9519
-    }
-  },
-  {
-    "url": "http://speedtest.upprovedor.com.br:8080/speedtest/upload.php",
-    "name": "Anápolis",
-    "country": "Brazil",
-    "cc": "BR",
-    "sponsor": "UP Provedor",
-    "host": "speedtest.upprovedor.com.br:8080",
-    "objectID": 22291,
     "_geoloc": {
       "lat": -16.3339,
       "lon": -48.9519
@@ -89185,20 +89022,6 @@
     }
   },
   {
-    "url": "http://speedtest.plim.net.br:8080/speedtest/upload.php",
-    "name": "Montes Claros",
-    "country": "Brazil",
-    "cc": "BR",
-    "sponsor": "Plim Telecom",
-    "url2": "http://speedtest2.plim.net.br/speedtest/upload.php",
-    "host": "speedtest.plim.net.br:8080",
-    "objectID": 2531,
-    "_geoloc": {
-      "lat": -16.7306,
-      "lon": -43.8639
-    }
-  },
-  {
     "url": "http://speedtest.mcl.soumaster.com.br:5060/speedtest/upload.php",
     "name": "Montes Claros",
     "country": "Brazil",
@@ -89206,20 +89029,6 @@
     "sponsor": "Master",
     "host": "speedtest.mcl.soumaster.com.br:8080",
     "objectID": 20301,
-    "_geoloc": {
-      "lat": -16.7306,
-      "lon": -43.8639
-    }
-  },
-  {
-    "url": "http://speedtest1.netfacilprovedor.com.br:8080/speedtest/upload.php",
-    "name": "Montes Claros",
-    "country": "Brazil",
-    "cc": "BR",
-    "sponsor": "Netfacil",
-    "url2": "http://speedtest3.netfacilprovedor.com.br/speedtest/upload.php",
-    "host": "speedtest1.netfacilprovedor.com.br:8080",
-    "objectID": 7648,
     "_geoloc": {
       "lat": -16.7306,
       "lon": -43.8639
@@ -89252,19 +89061,6 @@
     }
   },
   {
-    "url": "http://speedtest.mknetwork.com.br:8080/speedtest/upload.php",
-    "name": "Montes Claros",
-    "country": "Brazil",
-    "cc": "BR",
-    "sponsor": "MKNetwork",
-    "host": "speedtest.mknetwork.com.br:8080",
-    "objectID": 23651,
-    "_geoloc": {
-      "lat": -16.7306,
-      "lon": -43.8639
-    }
-  },
-  {
     "url": "http://speedtest.netix.net.br:8080/speedtest/upload.php",
     "name": "Cristalina",
     "country": "Brazil",
@@ -89291,19 +89087,6 @@
     }
   },
   {
-    "url": "https://speedtest.provedordigitalnet.net.br/speedtest/upload.php",
-    "name": "Bocaiúva",
-    "country": "Brazil",
-    "cc": "BR",
-    "sponsor": "Digital.com",
-    "host": "speedtest.provedordigitalnet.net.br:8080",
-    "objectID": 24907,
-    "_geoloc": {
-      "lat": -17.1113,
-      "lon": -43.8203
-    }
-  },
-  {
     "url": "http://newmasterturbonet.com.br:8080/speedtest/upload.php",
     "name": "Indiara",
     "country": "Brazil",
@@ -89314,20 +89097,6 @@
     "_geoloc": {
       "lat": -17.1393,
       "lon": -49.9867
-    }
-  },
-  {
-    "url": "http://sp1.mcinfor.com.br:5060/speedtest/upload.php",
-    "name": "Turmalina",
-    "country": "Brazil",
-    "cc": "BR",
-    "sponsor": "MC",
-    "url2": "http://sp2.mcinfor.com.br/speedtest/upload.php",
-    "host": "sp1.mcinfor.com.br:8080",
-    "objectID": 5253,
-    "_geoloc": {
-      "lat": -17.2861,
-      "lon": -42.7315
     }
   },
   {
@@ -90248,6 +90017,19 @@
     "_geoloc": {
       "lat": -18.9333,
       "lon": -46.9833
+    }
+  },
+  {
+    "url": "http://speed01.connectnetbrasil.com.br:8080/speedtest/upload.php",
+    "name": "Itaja",
+    "country": "BR",
+    "cc": "BR",
+    "sponsor": "CONNECT NET",
+    "host": "speed01.connectnetbrasil.com.br:8080",
+    "objectID": 17673,
+    "_geoloc": {
+      "lat": -19.0663,
+      "lon": -51.5571
     }
   },
   {
@@ -95486,19 +95268,6 @@
     }
   },
   {
-    "url": "http://speedtest.teresopolis.newgrouptelecom.com.br:8080/speedtest/upload.php",
-    "name": "Teresopolis",
-    "country": "Brazil",
-    "cc": "BR",
-    "sponsor": "New Group Telecomunicacoes",
-    "host": "speedtest.teresopolis.newgrouptelecom.com.br:8080",
-    "objectID": 8696,
-    "_geoloc": {
-      "lat": -22.4119,
-      "lon": -42.9658
-    }
-  },
-  {
     "url": "http://velocimetro.fastlink.net.br/upload.php",
     "name": "Teresopolis",
     "country": "Brazil",
@@ -95682,19 +95451,6 @@
     "_geoloc": {
       "lat": -22.4749,
       "lon": -46.6325
-    }
-  },
-  {
-    "url": "http://speedtest.petropolis.newgrouptelecom.com.br:8080/speedtest/upload.php",
-    "name": "Petropolis",
-    "country": "Brazil",
-    "cc": "BR",
-    "sponsor": "New Group Telecom",
-    "host": "speedtest.petropolis.newgrouptelecom.com.br:8080",
-    "objectID": 20211,
-    "_geoloc": {
-      "lat": -22.5113,
-      "lon": -43.1779
     }
   },
   {
@@ -96496,19 +96252,6 @@
     }
   },
   {
-    "url": "http://speedt.planety.com.br:8080/speedtest/upload.php",
-    "name": "São Pedro da Aldeia",
-    "country": "Brazil",
-    "cc": "BR",
-    "sponsor": "PLANETY INTERNET",
-    "host": "speedt.planety.com.br:8080",
-    "objectID": 22508,
-    "_geoloc": {
-      "lat": -22.7576,
-      "lon": -42.1344
-    }
-  },
-  {
     "url": "http://speedtest.internetfunny.com.br:8080/speedtest/upload.php",
     "name": "Piracicaba",
     "country": "Brazil",
@@ -97079,6 +96822,19 @@
     }
   },
   {
+    "url": "http://velocimetro-cps.virtua.com.br/speedtest/upload.php",
+    "name": "Campinas",
+    "country": "Brazil",
+    "cc": "BR",
+    "sponsor": "NET Virtua",
+    "host": "velocimetro-cps.virtua.com.br:8080",
+    "objectID": 17484,
+    "_geoloc": {
+      "lat": -22.9009,
+      "lon": -47.0573
+    }
+  },
+  {
     "url": "http://velocimetro-rjo.virtua.com.br/speedtest/upload.php",
     "name": "Rio de Janeiro",
     "country": "Brazil",
@@ -97309,6 +97065,19 @@
     "sponsor": "Airconect Comunicações LTDA-ME",
     "host": "airconect.net:8080",
     "objectID": 18845,
+    "_geoloc": {
+      "lat": -22.9068,
+      "lon": -43.1729
+    }
+  },
+  {
+    "url": "http://speedtest.ultraspeed.net.br:8080/speedtest/upload.php",
+    "name": "Rio de Janeiro",
+    "country": "Brazil",
+    "cc": "BR",
+    "sponsor": "UltraSpeed",
+    "host": "speedtest.ultraspeed.net.br:8080",
+    "objectID": 22567,
     "_geoloc": {
       "lat": -22.9068,
       "lon": -43.1729
@@ -97820,20 +97589,6 @@
     "_geoloc": {
       "lat": -23.1857,
       "lon": -46.8978
-    }
-  },
-  {
-    "url": "http://velocidade.maxiweb.com.br:8080/speedtest/upload.php",
-    "name": "Jundiai",
-    "country": "Brazil",
-    "cc": "BR",
-    "sponsor": "Maxiweb Internet Provider",
-    "url2": "http://www.velocidade.maxiweb.com.br/speedtest/upload.php",
-    "host": "velocidade.maxiweb.com.br:8080",
-    "objectID": 5691,
-    "_geoloc": {
-      "lat": -23.1864,
-      "lon": -46.8842
     }
   },
   {
@@ -98801,19 +98556,6 @@
     }
   },
   {
-    "url": "http://speedtest.expressnetwork.com.br:8080/speedtest/upload.php",
-    "name": "São Paulo",
-    "country": "Brazil",
-    "cc": "BR",
-    "sponsor": "ExpressNetwork",
-    "host": "speedtest.expressnetwork.com.br:8080",
-    "objectID": 23916,
-    "_geoloc": {
-      "lat": -23.5,
-      "lon": -46.6167
-    }
-  },
-  {
     "url": "http://speedtest.pointwifitelecom.com.br:8080/speedtest/upload.php",
     "name": "São Paulo",
     "country": "Brazil",
@@ -98821,6 +98563,19 @@
     "sponsor": "Point Wifi",
     "host": "speedtest.pointwifitelecom.com.br:8080",
     "objectID": 21036,
+    "_geoloc": {
+      "lat": -23.5,
+      "lon": -46.6167
+    }
+  },
+  {
+    "url": "http://speedtest.expressnetwork.com.br:8080/speedtest/upload.php",
+    "name": "São Paulo",
+    "country": "Brazil",
+    "cc": "BR",
+    "sponsor": "ExpressNetwork",
+    "host": "speedtest.expressnetwork.com.br:8080",
+    "objectID": 23916,
     "_geoloc": {
       "lat": -23.5,
       "lon": -46.6167
@@ -100699,19 +100454,6 @@
     }
   },
   {
-    "url": "http://ooklaspeedtest.pknettelecom.com.br:8080/speedtest/upload.php",
-    "name": "Campo Magro",
-    "country": "Brazil",
-    "cc": "BR",
-    "sponsor": "PKNET INTERNET",
-    "host": "ooklaspeedtest.pknettelecom.com.br:8080",
-    "objectID": 24545,
-    "_geoloc": {
-      "lat": -25.3695,
-      "lon": -49.4506
-    }
-  },
-  {
     "url": "http://speedtestcl.directwifi.com.br:8080/speedtest/upload.php",
     "name": "Campo Magro",
     "country": "Brazil",
@@ -100719,6 +100461,19 @@
     "sponsor": "Direct Wifi",
     "host": "speedtestcl.directwifi.com.br:8080",
     "objectID": 23026,
+    "_geoloc": {
+      "lat": -25.3695,
+      "lon": -49.4506
+    }
+  },
+  {
+    "url": "http://ooklaspeedtest.pknettelecom.com.br:8080/speedtest/upload.php",
+    "name": "Campo Magro",
+    "country": "Brazil",
+    "cc": "BR",
+    "sponsor": "PKNET INTERNET",
+    "host": "ooklaspeedtest.pknettelecom.com.br:8080",
+    "objectID": 24545,
     "_geoloc": {
       "lat": -25.3695,
       "lon": -49.4506
@@ -101117,19 +100872,6 @@
     "_geoloc": {
       "lat": -25.6636,
       "lon": -49.3076
-    }
-  },
-  {
-    "url": "http://speedtest.fiber-com.net.ar:8080/speedtest/upload.php",
-    "name": "Comandante Andresito",
-    "country": "Argentina",
-    "cc": "AR",
-    "sponsor": "FiberCom",
-    "host": "speedtest.fiber-com.net.ar:8080",
-    "objectID": 23381,
-    "_geoloc": {
-      "lat": -25.671,
-      "lon": -54.0487
     }
   },
   {
@@ -101710,19 +101452,6 @@
     }
   },
   {
-    "url": "http://sp1.bitco.co.za:8080/speedtest/upload.php",
-    "name": "Johannesburg",
-    "country": "South Africa",
-    "cc": "ZA",
-    "sponsor": "BitCo",
-    "host": "sp1.bitco.co.za:8080",
-    "objectID": 10990,
-    "_geoloc": {
-      "lat": -26.2044,
-      "lon": 28.0456
-    }
-  },
-  {
     "url": "http://speedtest-jhb.voxtelecom.co.za:8080/speedtest/upload.php",
     "name": "Johannesburg",
     "country": "South Africa",
@@ -101731,6 +101460,19 @@
     "url2": "http://speedtest-jhb1.voxtelecom.co.za/upload.php",
     "host": "speedtest-jhb.voxtelecom.co.za:8080",
     "objectID": 7254,
+    "_geoloc": {
+      "lat": -26.2044,
+      "lon": 28.0456
+    }
+  },
+  {
+    "url": "http://sp1.bitco.co.za:8080/speedtest/upload.php",
+    "name": "Johannesburg",
+    "country": "South Africa",
+    "cc": "ZA",
+    "sponsor": "BitCo",
+    "host": "sp1.bitco.co.za:8080",
+    "objectID": 10990,
     "_geoloc": {
       "lat": -26.2044,
       "lon": 28.0456
@@ -103235,32 +102977,6 @@
     }
   },
   {
-    "url": "http://velocimetro-fln.virtua.com.br/speedtest/upload.php",
-    "name": "Florianopolis",
-    "country": "Brazil",
-    "cc": "BR",
-    "sponsor": "NET Virtua",
-    "host": "velocimetro-fln.virtua.com.br:8080",
-    "objectID": 16338,
-    "_geoloc": {
-      "lat": -27.5929,
-      "lon": -48.5524
-    }
-  },
-  {
-    "url": "http://speedtest.pop-sc.rnp.br/speedtest/upload.php",
-    "name": "Florianopolis",
-    "country": "Brazil",
-    "cc": "BR",
-    "sponsor": "PoP-SC/RNP",
-    "host": "speedtest.pop-sc.rnp.br:8080",
-    "objectID": 1201,
-    "_geoloc": {
-      "lat": -27.5929,
-      "lon": -48.5524
-    }
-  },
-  {
     "url": "http://www.uricer.edu.br:8080/speedtest/upload.php",
     "name": "Erechim",
     "country": "Brazil",
@@ -103376,6 +103092,19 @@
     "_geoloc": {
       "lat": -27.791,
       "lon": -64.2734
+    }
+  },
+  {
+    "url": "http://speedtest.alogtelecom.net.br:8080/speedtest/upload.php",
+    "name": "São João da Urtiga",
+    "country": "Brazil",
+    "cc": "BR",
+    "sponsor": "ALOG Telecom",
+    "host": "speedtest.alogtelecom.net.br:8080",
+    "objectID": 18059,
+    "_geoloc": {
+      "lat": -27.8149,
+      "lon": -51.8311
     }
   },
   {
@@ -103644,6 +103373,19 @@
     }
   },
   {
+    "url": "http://speedtest.cyberfly.com.br:8080/speedtest/upload.php",
+    "name": "Vacaria",
+    "country": "Brazil",
+    "cc": "BR",
+    "sponsor": "Cyberfly",
+    "host": "speedtest.cyberfly.com.br:8080",
+    "objectID": 20921,
+    "_geoloc": {
+      "lat": -28.3276,
+      "lon": -50.9289
+    }
+  },
+  {
     "url": "http://speedtest.3dtelecom.com.br:5060/speedtest/upload.php",
     "name": "São Ludgero",
     "country": "Brazil",
@@ -103818,6 +103560,19 @@
     }
   },
   {
+    "url": "http://stest-npt.adyl.net.br:8080/speedtest/upload.php",
+    "name": "Nova Prata",
+    "country": "Brazil",
+    "cc": "BR",
+    "sponsor": "Adylnet Telecom",
+    "host": "stest-npt.adyl.net.br:8080",
+    "objectID": 22986,
+    "_geoloc": {
+      "lat": -28.7839,
+      "lon": -51.61
+    }
+  },
+  {
     "url": "http://speedtest.stationtelecom.com.br:8080/speedtest/upload.php",
     "name": "Balneário Rincão",
     "country": "Brazil",
@@ -103932,6 +103687,20 @@
     "sponsor": "Guareze Fibra",
     "host": "speedtest.guareze.com.br:8080",
     "objectID": 16481,
+    "_geoloc": {
+      "lat": -29.0304,
+      "lon": -51.2004
+    }
+  },
+  {
+    "url": "http://speedtest.najatelecom.com.br:8080/speedtest/upload.php",
+    "name": "Flores da Cunha",
+    "country": "Brazil",
+    "cc": "BR",
+    "sponsor": "Naja Telecom",
+    "url2": "http://speedtest.najatelecom.net.br/speedtest/upload.php",
+    "host": "speedtest.najatelecom.com.br:8080",
+    "objectID": 9268,
     "_geoloc": {
       "lat": -29.0304,
       "lon": -51.2004
@@ -104131,6 +103900,19 @@
     "sponsor": "VisãoNET",
     "host": "speed1.visaonetrstelecom.com.br:8080",
     "objectID": 20752,
+    "_geoloc": {
+      "lat": -29.3337,
+      "lon": -53.0885
+    }
+  },
+  {
+    "url": "http://sp1.interativars.com.br:8080/speedtest/upload.php",
+    "name": "Arroio do Tigre",
+    "country": "Brazil",
+    "cc": "BR",
+    "sponsor": "INTERATIVA RS",
+    "host": "sp1.interativars.com.br:8080",
+    "objectID": 23834,
     "_geoloc": {
       "lat": -29.3337,
       "lon": -53.0885
@@ -104676,6 +104458,20 @@
     "sponsor": "Mhnet Telecom",
     "host": "scr-sp01.mhnet.com.br:8080",
     "objectID": 13959,
+    "_geoloc": {
+      "lat": -29.7164,
+      "lon": -52.4311
+    }
+  },
+  {
+    "url": "http://speedtest1.rrtelecomrs.net.br:8080/speedtest/upload.php",
+    "name": "Santa Cruz do Sul",
+    "country": "Brazil",
+    "cc": "BR",
+    "sponsor": "RR TELECOM",
+    "url2": "http://speedtest2.rrtelecomrs.net.br/speedtest/upload.php",
+    "host": "speedtest1.rrtelecomrs.net.br:8080",
+    "objectID": 8843,
     "_geoloc": {
       "lat": -29.7164,
       "lon": -52.4311
@@ -106580,19 +106376,6 @@
     }
   },
   {
-    "url": "http://speedtest.vpnsolutions.com.au/speedtest/upload.php",
-    "name": "Sydney",
-    "country": "Australia",
-    "cc": "AU",
-    "sponsor": "VPN Solutions Pty Ltd",
-    "host": "speedtest.vpnsolutions.com.au:8080",
-    "objectID": 13474,
-    "_geoloc": {
-      "lat": -33.86,
-      "lon": 151.2111
-    }
-  },
-  {
     "url": "http://speedtest-syd.cdn.on.net:8080/speedtest/upload.php",
     "name": "Sydney",
     "country": "Australia",
@@ -107150,6 +106933,19 @@
     "_geoloc": {
       "lat": -34.4001,
       "lon": -58.6498
+    }
+  },
+  {
+    "url": "http://speedtest.gowinternet.com.ar:5060/speedtest/upload.php",
+    "name": "Benavidez",
+    "country": "Argentina",
+    "cc": "AR",
+    "sponsor": "GOW INTERNET SRL",
+    "host": "speedtest.gowinternet.com.ar:8080",
+    "objectID": 13772,
+    "_geoloc": {
+      "lat": -34.4151,
+      "lon": -58.6867
     }
   },
   {
