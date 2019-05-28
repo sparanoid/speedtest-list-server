@@ -22,11 +22,41 @@ axios.get(url)
       if (err) throw err;
 
       // Remove top-level "$" of every server node
-      const result = content.settings.servers[0].server.map(item => {
+      let result = content.settings.servers[0].server.map(item => {
         return item.$;
       })
 
-      const output = JSON.stringify(result, null, 2)
+      // Convert strings to number
+      for (let i = 0; i < result.length; i++) {
+        var obj = result[i];
+        for (let prop in obj) {
+          // Use reversed objectID
+          // https://www.algolia.com/doc/api-client/methods/indexing/#index-objects
+          obj.objectID = obj.id;
+
+          // Use reversed geolocation
+          // https://www.algolia.com/doc/guides/managing-results/refine-results/geolocation/
+          obj._geoloc = {};
+          obj._geoloc.lat = obj.lat;
+          obj._geoloc.lon = obj.lon;
+
+          if (obj.hasOwnProperty(prop) && obj[prop] !== null && !isNaN(obj[prop])){
+            obj[prop] = +obj[prop];
+          }
+        }
+      }
+
+      // Remove duplicated props
+      for (let i = 0; i < result.length; i++) {
+        var obj = result[i];
+        for (let prop in obj) {
+          delete obj.id;
+          delete obj.lat;
+          delete obj.lon;
+        }
+      }
+
+      let output = JSON.stringify(result, null, 2)
 
       fs.writeFile(filename, output, function(err) {
         if (err) throw err;
@@ -36,8 +66,8 @@ axios.get(url)
       index.addObjects(result, (err, content) => {
         if (err) throw err;
         console.log(`List uploaded to Algolia`);
-      });
-    });
+      })}
+    );
   })
   .catch(function (error) {
     console.log(error);
