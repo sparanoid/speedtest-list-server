@@ -48,8 +48,11 @@ const processData = (data) => {
       }
     }
 
-    let output = JSON.stringify(result, null, 2)
+    // Sort array by `objectID`
+    result.sort((a, b) => (+a.objectID > +b.objectID) ? 1 : -1);
 
+    // Beautify output & save to file
+    let output = JSON.stringify(result, null, 2)
     fs.writeFile(filename, output, function(err) {
       if (err) throw err;
       console.log(`List saved to ${filename}`);
