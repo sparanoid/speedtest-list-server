@@ -74,7 +74,7 @@ const processData = (data) => {
           'desc(objectID)'
         ],
         attributesForFaceting: [
-          'country'
+          'searchable(country)'
         ],
         maxValuesPerFacet: 1000
       });
