@@ -71,10 +71,13 @@ const processData = (data) => {
       console.log(`Index cleared`);
     });
 
-    index.saveObjects(result, (err, content) => {
-      if (err) throw err;
-      console.log(`List uploaded to Algolia`);
-    });
+    // Wait a few seconds for Algolia to purge the dataset
+    setTimeout(() => {
+      index.saveObjects(result, (err, content) => {
+        if (err) throw err;
+        console.log(`List uploaded to Algolia`);
+      });
+    }, 5000)
   });
 }
 
