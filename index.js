@@ -35,7 +35,7 @@ const processData = (data) => {
       for (let prop in obj) {
         // Use reversed objectID
         // https://www.algolia.com/doc/api-client/methods/indexing/#index-objects
-        obj.objectID = obj.id;
+        obj.objectID = +obj.id;
 
         // Use reversed geolocation
         // https://www.algolia.com/doc/guides/managing-results/refine-results/geolocation/
