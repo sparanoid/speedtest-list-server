@@ -13,6 +13,13 @@ const client = algoliasearch(
 const index = client.initIndex(process.env.ALGOLIA_INDEX);
 const url = 'https://c.speedtest.net/speedtest-servers-static.php';
 const filename = 'speedtest-list.json';
+const fetchOptions = {
+  forcePush: false,
+  fullFetch: true,
+  updateSettings: false,
+  enableUpload: true,
+}
+
 const processData = (data) => {
   parser.parseString(data, function(err, content) {
     if (err) throw err;
@@ -58,26 +65,38 @@ const processData = (data) => {
       console.log(`List saved to ${filename}`);
     });
 
-    index.setSettings({
-      attributesForFaceting: [
-        'country'
-      ],
-      maxValuesPerFacet: 1000
-    });
+    if (fetchOptions.updateSettings) {
+      console.log('Update index settings...');
 
-    // Clear index first to avoid "Record quota exceeded" error for free plan
-    index.clearIndex((err, content) => {
-      if (err) throw err;
-      console.log(`Index cleared`);
-    });
-
-    // Wait a few seconds for Algolia to purge the dataset
-    setTimeout(() => {
-      index.saveObjects(result, (err, content) => {
-        if (err) throw err;
-        console.log(`List uploaded to Algolia`);
+      index.setSettings({
+        paginationLimitedTo: 10000,
+        customRanking: [
+          'desc(objectID)'
+        ],
+        attributesForFaceting: [
+          'country'
+        ],
+        maxValuesPerFacet: 1000
       });
-    }, 5000)
+    }
+
+    if (fetchOptions.enableUpload) {
+      console.log('Begin upload process...');
+
+      // Clear index first to avoid "Record quota exceeded" error for free plan
+      index.clearIndex((err, content) => {
+        if (err) throw err;
+        console.log(`Index cleared`);
+      });
+
+      // Wait a few seconds for Algolia to purge the dataset
+      setTimeout(() => {
+        index.saveObjects(result, (err, content) => {
+          if (err) throw err;
+          console.log(`List uploaded to Algolia`);
+        });
+      }, 5000)
+    }
   });
 }
 
