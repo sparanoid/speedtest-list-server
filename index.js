@@ -8,7 +8,11 @@ const algoliasearch = require('algoliasearch');
 const client = algoliasearch(
   process.env.ALGOLIA_APP_ID,
   process.env.ALGOLIA_ADMIN_KEY, {
-  timeout: 4000,
+  timeouts: {
+    connect: 2,
+    read: 4,
+    write: 30
+  }
 });
 const index = client.initIndex(process.env.ALGOLIA_INDEX);
 const url = 'https://c.speedtest.net/speedtest-servers-static.php';
@@ -87,7 +91,7 @@ const processData = (data) => {
       console.log('Begin upload process...');
 
       // Clear index first to avoid "Record quota exceeded" error for free plan
-      index.clearIndex((err, content) => {
+      index.clearObjects((err, content) => {
         if (err) throw err;
         console.log(`Index cleared`);
       });
